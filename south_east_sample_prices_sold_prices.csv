@@ -1,0 +1,432 @@
+Date,Address,Postcode,Type,New-build,Tenure,Bedrooms,"Price paid",Lat,Lng,URL
+"2023-03-22 00:00:00","7, Chaucer Drive","SE1 5TA","Terraced house","Old stock",Freehold,1,365000,51.4898448,-0.0743424,https://propertydata.co.uk/transaction/FAC30767-E532-5E20-E053-4704A8C004EE
+"2023-03-06 00:00:00","Flat 17, St. Johns House, Lytham Street","SE17 2PW",Flat,"Old stock",Leasehold,2,330000,51.4851084,-0.0911027,https://propertydata.co.uk/transaction/FAC30767-8AE6-5E20-E053-4704A8C004EE
+"2023-03-03 00:00:00","Flat 23, Knight House, Huntsman Street","SE17 1QN",Flat,"Old stock",Leasehold,2,365000,51.4903972,-0.0851054,https://propertydata.co.uk/transaction/F87E72F9-7DB3-176C-E053-6B04A8C0D2BE
+"2023-02-24 00:00:00","26, Pilton Place","SE17 1DN",Flat,"Old stock",Leasehold,2,335000,51.4887184,-0.0941065,https://propertydata.co.uk/transaction/F87E72F9-7E28-176C-E053-6B04A8C0D2BE
+"2023-02-24 00:00:00","Flat 10, Bethersden House, Kinglake Estate","SE17 2LH",Flat,"Old stock",Leasehold,3,355000,51.4879974,-0.0813312,https://propertydata.co.uk/transaction/FAC30767-8B1C-5E20-E053-4704A8C004EE
+"2023-02-23 00:00:00","36, Bushwood Drive","SE1 5RE",Flat,"Old stock",Leasehold,2,385000,51.4901026,-0.0726143,https://propertydata.co.uk/transaction/F87E72F9-803A-176C-E053-6B04A8C0D2BE
+"2023-01-27 00:00:00","166a, Trafalgar Street","SE17 2TP",Flat,"Old stock",Leasehold,2,425000,51.4879113,-0.0892715,https://propertydata.co.uk/transaction/F5E8B081-E08B-3A13-E053-6C04A8C060B7
+"2022-12-19 00:00:00","10, Surrey Square","SE17 2JU","Terraced house","Old stock",Freehold,5,730000,51.4896727,-0.080944,https://propertydata.co.uk/transaction/F5E8B081-E35C-3A13-E053-6C04A8C060B7
+"2022-12-19 00:00:00","8a, Ethel Street","SE17 1NH",Flat,"Old stock",Leasehold,1,605000,51.4910171,-0.0961137,https://propertydata.co.uk/transaction/F87E72F9-7D45-176C-E053-6B04A8C0D2BE
+"2022-12-15 00:00:00","70, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,3,974500,51.4928403,-0.0897889,https://propertydata.co.uk/transaction/F3B6C198-D720-6E40-E053-6C04A8C0B3B4
+"2022-12-01 00:00:00","85, Lynton Road","SE1 5QT",Flat,"Old stock",Freehold,3,895000,51.4902987,-0.0714105,https://propertydata.co.uk/transaction/F3B6C198-AB56-6E40-E053-6C04A8C0B3B4
+"2022-11-25 00:00:00","21, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,4,1275000,51.4854991,-0.0963292,https://propertydata.co.uk/transaction/F16F63C6-0A7D-0491-E053-6C04A8C032ED
+"2022-11-24 00:00:00","1, Sutherland Walk","SE17 3EF","Terraced house","Old stock",Freehold,3,1130000,51.4864707,-0.095799,https://propertydata.co.uk/transaction/F3B6C197-A34C-6E40-E053-6C04A8C0B3B4
+"2022-11-11 00:00:00","52b, Searles Road","SE1 4YL","Terraced house","Old stock",Freehold,1,480000,51.4934887,-0.0877418,https://propertydata.co.uk/transaction/F16F63C6-27B5-0491-E053-6C04A8C032ED
+"2022-11-10 00:00:00","Flat 22, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,1,255000,51.4912896,-0.0863357,https://propertydata.co.uk/transaction/F16F63C6-293C-0491-E053-6C04A8C032ED
+"2022-11-04 00:00:00","39, Alma Grove","SE1 5QB","Terraced house","Old stock",Freehold,3,1100000,51.4906927,-0.0713074,https://propertydata.co.uk/transaction/F16F63C6-0AFE-0491-E053-6C04A8C032ED
+"2022-11-03 00:00:00","1, Tisdall Place","SE17 1QQ","Terraced house","Old stock",Freehold,3,675000,51.4899482,-0.0862478,https://propertydata.co.uk/transaction/F5E8B081-E0F4-3A13-E053-6C04A8C060B7
+"2022-10-25 00:00:00","Flat 12, Dormstone House, Congreve Street","SE17 1TA",Flat,"Old stock",Leasehold,2,390000,51.4909508,-0.0832095,https://propertydata.co.uk/transaction/F87E72F9-7DB7-176C-E053-6B04A8C0D2BE
+"2022-10-21 00:00:00","129, Rodney Road","SE17 1RF",Flat,"Old stock",Leasehold,1,290000,51.4916141,-0.0896929,https://propertydata.co.uk/transaction/EED73E76-39B3-6AF3-E053-6C04A8C08ABA
+"2022-10-14 00:00:00","52, Surrey Square","SE17 2JX","Terraced house","Old stock",Freehold,4,1700000,51.4890828,-0.0822652,https://propertydata.co.uk/transaction/EED73E76-1182-6AF3-E053-6C04A8C08ABA
+"2022-10-07 00:00:00","56, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,1,417000,51.4874215,-0.0879092,https://propertydata.co.uk/transaction/EED73E76-B879-6AF3-E053-6C04A8C08ABA
+"2022-09-28 00:00:00","Flat 3, Dormstone House, Congreve Street","SE17 1TA",Flat,"Old stock",Leasehold,3,500000,51.4909508,-0.0832095,https://propertydata.co.uk/transaction/F3B6C199-52A4-6E40-E053-6C04A8C0B3B4
+"2022-09-23 00:00:00","1, Aylesbury Road","SE17 2EQ","Semi-detached house","Old stock",Freehold,3,670000,51.4877108,-0.0879147,https://propertydata.co.uk/transaction/EC7AD09A-22F1-9200-E053-6C04A8C0E306
+"2022-09-15 00:00:00","Flat 2, Abbey Court, Macleod Street","SE17 3HA",Flat,"Old stock",Leasehold,1,395000,51.4859696,-0.0953046,https://propertydata.co.uk/transaction/EC7AD09A-4CF8-9200-E053-6C04A8C0E306
+"2022-09-09 00:00:00","21, Empress Street","SE17 3HH",Flat,"Old stock",Leasehold,2,330000,51.4848479,-0.094988,https://propertydata.co.uk/transaction/EED73E76-3909-6AF3-E053-6C04A8C08ABA
+"2022-09-09 00:00:00","43, Cadet Drive","SE1 5RU","Terraced house","Old stock",Freehold,3,705000,51.4892126,-0.0708975,https://propertydata.co.uk/transaction/EC7AD09A-4CB6-9200-E053-6C04A8C0E306
+"2022-09-05 00:00:00","8a, Dunton Road","SE1 5TJ",Flat,"Old stock",Leasehold,2,445000,51.4926631,-0.0746528,https://propertydata.co.uk/transaction/F3B6C198-D81F-6E40-E053-6C04A8C0B3B4
+"2022-09-02 00:00:00","7b, Mason Street","SE17 1HF",Flat,"Old stock",Leasehold,3,500000,51.4930905,-0.0858312,https://propertydata.co.uk/transaction/EC7AD09A-490C-9200-E053-6C04A8C0E306
+"2022-09-01 00:00:00","Flat 17, Mawbey House, Old Kent Road","SE1 5PG",Flat,"Old stock",Leasehold,2,310000,51.4864506,-0.0713742,https://propertydata.co.uk/transaction/EA3278AA-916A-2676-E053-6B04A8C015F8
+"2022-08-31 00:00:00","Flat 13, Ellis House, Brandon Street","SE17 1EA",Flat,"Old stock",Leasehold,2,370000,51.4894211,-0.0919741,https://propertydata.co.uk/transaction/F16F63C6-2934-0491-E053-6C04A8C032ED
+"2022-08-23 00:00:00","Flat 96, Dawes House, Orb Street","SE17 1RD",Flat,"Old stock",Leasehold,3,451000,51.4902993,-0.08893,https://propertydata.co.uk/transaction/F87E72F9-7DE3-176C-E053-6B04A8C0D2BE
+"2022-08-22 00:00:00","23, Oxley Close","SE1 5HF","Terraced house","Old stock",Freehold,2,495000,51.489189,-0.0716475,https://propertydata.co.uk/transaction/EA3278AA-9553-2676-E053-6B04A8C015F8
+"2022-08-18 00:00:00","Flat 7, 37, Bagshot Street","SE17 2QW",Flat,"Old stock",Leasehold,1,342000,51.4868126,-0.0808223,https://propertydata.co.uk/transaction/EA3278AA-9255-2676-E053-6B04A8C015F8
+"2022-08-18 00:00:00","4, Longfellow Way","SE1 5TB","Terraced house","Old stock",Freehold,1,526000,51.4901238,-0.0738121,https://propertydata.co.uk/transaction/EA3278AA-8FCC-2676-E053-6B04A8C015F8
+"2022-08-15 00:00:00","44, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,3,835000,51.4928403,-0.0897889,https://propertydata.co.uk/transaction/EA3278AA-952F-2676-E053-6B04A8C015F8
+"2022-07-29 00:00:00","Flat 34, Povey House, Beckway Street","SE17 1TP",Flat,"Old stock",Leasehold,3,380000,51.490712,-0.0839141,https://propertydata.co.uk/transaction/EA3278AA-90A6-2676-E053-6B04A8C015F8
+"2022-07-29 00:00:00","Flat 52, Trafalgar House, Bronti Close","SE17 2HF",Flat,"Old stock",Leasehold,2,325000,51.4879728,-0.0929597,https://propertydata.co.uk/transaction/EA3278AA-8FEC-2676-E053-6B04A8C015F8
+"2022-07-15 00:00:00","9, Keats Close","SE1 5TZ","Terraced house","Old stock",Freehold,4,544000,51.4907273,-0.0755152,https://propertydata.co.uk/transaction/E7B085FC-DF18-7E31-E053-6C04A8C0E67F
+"2022-07-15 00:00:00","39, Chaucer Drive","SE1 5TA","Terraced house","Old stock",Freehold,2,483782,51.4898448,-0.0743424,https://propertydata.co.uk/transaction/E7B085FC-DA1C-7E31-E053-6C04A8C0E67F
+"2022-07-08 00:00:00","25, Searles Road","SE1 4YU","Terraced house","Old stock",Freehold,5,907000,51.4937541,-0.0874714,https://propertydata.co.uk/transaction/EED73E76-B0C8-6AF3-E053-6C04A8C08ABA
+"2022-06-30 00:00:00","110, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,3,370000,51.4893214,-0.073858,https://propertydata.co.uk/transaction/E53EDD2E-5191-83EC-E053-6B04A8C03A59
+"2022-06-27 00:00:00","3, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,4,1180000,51.4859828,-0.0963911,https://propertydata.co.uk/transaction/E53EDD2D-4379-83EC-E053-6B04A8C03A59
+"2022-06-25 00:00:00","35, Aylesbury Road","SE17 2EQ","Terraced house","Old stock",Freehold,2,450000,51.4877108,-0.0879147,https://propertydata.co.uk/transaction/EED73E76-12BE-6AF3-E053-6C04A8C08ABA
+"2022-06-20 00:00:00","40, Date Street","SE17 2HQ","Terraced house","Old stock",Freehold,3,727000,51.487689,-0.0927405,https://propertydata.co.uk/transaction/E53EDD2E-2C7C-83EC-E053-6B04A8C03A59
+"2022-06-17 00:00:00","Flat 43, Dhonau House, Longfield Estate","SE1 5TL",Flat,"Old stock",Leasehold,1,246500,51.4920325,-0.0740879,https://propertydata.co.uk/transaction/E2D14906-1CDD-4C2D-E053-6B04A8C0422B
+"2022-06-16 00:00:00","49, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,2,580000,51.4857393,-0.0905466,https://propertydata.co.uk/transaction/F3B6C198-D96A-6E40-E053-6C04A8C0B3B4
+"2022-06-07 00:00:00","Flat 50, Studland, Portland Street","SE17 2TW",Flat,"Old stock",Leasehold,1,295000,51.4880802,-0.0904934,https://propertydata.co.uk/transaction/E53EDD2E-5030-83EC-E053-6B04A8C03A59
+"2022-05-27 00:00:00","6, Sondes Street","SE17 2PQ","Terraced house","Old stock",Freehold,2,571500,51.4850417,-0.089766,https://propertydata.co.uk/transaction/F3B6C198-D50B-6E40-E053-6C04A8C0B3B4
+"2022-05-27 00:00:00","14b, Southwark Park Road","SE16 3RT",Flat,"Old stock",Leasehold,1,325000,51.4927111,-0.0733627,https://propertydata.co.uk/transaction/E53EDD2E-4FFA-83EC-E053-6B04A8C03A59
+"2022-05-20 00:00:00","4, Burnham Close","SE1 5RL",Flat,"Old stock",Leasehold,2,450000,51.4897307,-0.0723638,https://propertydata.co.uk/transaction/E2D14906-1E10-4C2D-E053-6B04A8C0422B
+"2022-04-29 00:00:00","8, Kennedy Walk","SE17 1QL",Flat,"Old stock",Leasehold,1,305000,51.4903626,-0.0872996,https://propertydata.co.uk/transaction/EC7AD09A-4D96-9200-E053-6C04A8C0E306
+"2022-04-14 00:00:00","Flat 1, Littlebourne House, Upnor Way","SE17 2RW",Flat,"Old stock",Leasehold,1,264000,51.4880379,-0.0791401,https://propertydata.co.uk/transaction/DE2D0CE0-3AF9-51EE-E053-6C04A8C00671
+"2022-04-08 00:00:00","2, Chaucer Drive","SE1 5TA","Terraced house","Old stock",Freehold,3,690000,51.4905928,-0.0741945,https://propertydata.co.uk/transaction/E2D14906-1EDC-4C2D-E053-6B04A8C0422B
+"2022-04-07 00:00:00","7a, Trafalgar Avenue","SE15 6NP",Flat,"Old stock",Leasehold,1,365000,51.485789,-0.0737931,https://propertydata.co.uk/transaction/F5E8B081-E048-3A13-E053-6C04A8C060B7
+"2022-04-01 00:00:00","155, Merrow Street","SE17 2NY",Flat,"Old stock",Leasehold,2,450000,51.4870699,-0.0879622,https://propertydata.co.uk/transaction/E2D14906-1F1A-4C2D-E053-6B04A8C0422B
+"2022-03-28 00:00:00","8, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,3,1000000,51.4858422,-0.0956036,https://propertydata.co.uk/transaction/E073986B-CED6-2134-E053-6C04A8C0233B
+"2022-03-25 00:00:00","Flat 30, Dartford House, Longfield Estate","SE1 5RZ",Flat,"Old stock",Leasehold,2,389995,51.4926715,-0.074252,https://propertydata.co.uk/transaction/E073986B-CFCA-2134-E053-6C04A8C0233B
+"2022-03-24 00:00:00","25, Aylesbury Road","SE17 2EQ",Flat,"Old stock",Leasehold,2,382500,51.4876045,-0.088095,https://propertydata.co.uk/transaction/E2D14906-22E3-4C2D-E053-6B04A8C0422B
+"2022-03-15 00:00:00","Flat 25, Andoversford Court, Bibury Close","SE15 6AE",Flat,"Old stock",Leasehold,2,320000,51.4812042,-0.0800056,https://propertydata.co.uk/transaction/E073986B-CFDF-2134-E053-6C04A8C0233B
+"2022-03-11 00:00:00","20, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,4,1245000,51.485431,-0.096443,https://propertydata.co.uk/transaction/DE2D0CDF-3F83-51EE-E053-6C04A8C00671
+"2022-03-11 00:00:00","Flat 2, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,3,355000,51.4913205,-0.0863137,https://propertydata.co.uk/transaction/DBA933FA-11D9-669D-E053-6B04A8C0AD56
+"2022-03-08 00:00:00","14, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,1,518000,51.4857393,-0.0905466,https://propertydata.co.uk/transaction/E7B085FC-D915-7E31-E053-6C04A8C0E67F
+"2022-02-28 00:00:00","Flat 19, Newbolt House, Brandon Street","SE17 1AA",Flat,"Old stock",Leasehold,2,355000,51.4893111,-0.0912312,https://propertydata.co.uk/transaction/DBA933FA-1168-669D-E053-6B04A8C0AD56
+"2022-02-21 00:00:00","86, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,2,450000,51.4880351,-0.0877782,https://propertydata.co.uk/transaction/DBA933FA-106D-669D-E053-6B04A8C0AD56
+"2022-02-21 00:00:00","60, Cadet Drive","SE1 5RU","Semi-detached house","Old stock",Freehold,2,472500,51.4897906,-0.0714261,https://propertydata.co.uk/transaction/E073986B-D540-2134-E053-6C04A8C0233B
+"2022-02-18 00:00:00","122, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,1,340000,51.4893074,-0.0740163,https://propertydata.co.uk/transaction/EED73E76-B874-6AF3-E053-6C04A8C08ABA
+"2022-02-09 00:00:00","Flat 20, Richmond House, East Street","SE17 2DU",Flat,"Old stock",Leasehold,3,350002,51.4890395,-0.0905384,https://propertydata.co.uk/transaction/D93B27B1-70F6-3100-E053-6C04A8C08887
+"2022-02-07 00:00:00","25, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,3,595000,51.4856919,-0.090714,https://propertydata.co.uk/transaction/E073986B-ABD0-2134-E053-6C04A8C0233B
+"2022-02-04 00:00:00","13, Phelp Street","SE17 2PH","Terraced house","Old stock",Freehold,2,570000,51.4846355,-0.0902778,https://propertydata.co.uk/transaction/E073986B-AB3C-2134-E053-6C04A8C0233B
+"2022-02-04 00:00:00","34, Sutherland Walk","SE17 3EF","Terraced house","Old stock",Freehold,4,875000,51.4863407,-0.0953258,https://propertydata.co.uk/transaction/E073986B-AC26-2134-E053-6C04A8C0233B
+"2022-02-02 00:00:00","19, Henshaw Street","SE17 1PE","Terraced house","Old stock",Freehold,3,875000,51.4928129,-0.0907165,https://propertydata.co.uk/transaction/E53EDD2E-4FF3-83EC-E053-6B04A8C03A59
+"2022-02-01 00:00:00","Flat 3, Trafalgar House, Bronti Close","SE17 2HF",Flat,"Old stock",Leasehold,2,273500,51.4879345,-0.0930384,https://propertydata.co.uk/transaction/E073986B-D032-2134-E053-6C04A8C0233B
+"2022-01-31 00:00:00","395a, Walworth Road","SE17 2AW","Terraced house","Old stock",Leasehold,3,405000,51.4849867,-0.0935685,https://propertydata.co.uk/transaction/E073986B-D29B-2134-E053-6C04A8C0233B
+"2022-01-31 00:00:00","Flat 24, Ellery House, Beckway Street","SE17 1TN",Flat,"Old stock",Leasehold,1,300000,51.4911419,-0.0858021,https://propertydata.co.uk/transaction/E073986B-D02C-2134-E053-6C04A8C0233B
+"2022-01-28 00:00:00","Flat 9, Peace Court, Harmony Place","SE1 5TR",Flat,"Old stock",Leasehold,2,242500,51.4870619,-0.0714462,https://propertydata.co.uk/transaction/F5E8B081-DE95-3A13-E053-6C04A8C060B7
+"2022-01-28 00:00:00","87, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,2,854000,51.4933104,-0.0821934,https://propertydata.co.uk/transaction/DBA933F9-E9A7-669D-E053-6B04A8C0AD56
+"2022-01-24 00:00:00","4, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,3,1080000,51.4860473,-0.0957649,https://propertydata.co.uk/transaction/DE2D0CE0-1940-51EE-E053-6C04A8C00671
+"2022-01-21 00:00:00","63b, Larcom Street","SE17 1NJ",Flat,"Old stock",Leasehold,3,480000,51.4914328,-0.0950338,https://propertydata.co.uk/transaction/EA3278AA-951F-2676-E053-6B04A8C015F8
+"2022-01-07 00:00:00","Flat 9, Tennyson House, Browning Street","SE17 1DB",Flat,"Old stock",Leasehold,4,420000,51.4896282,-0.0945412,https://propertydata.co.uk/transaction/DE2D0CE0-3B1D-51EE-E053-6C04A8C00671
+"2021-12-20 00:00:00","27, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,3,1215000,51.485302,-0.0970739,https://propertydata.co.uk/transaction/D93B27B1-4435-3100-E053-6C04A8C08887
+"2021-12-20 00:00:00","62, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,1,415000,51.4875488,-0.0874723,https://propertydata.co.uk/transaction/DE2D0CE0-3C82-51EE-E053-6C04A8C00671
+"2021-12-17 00:00:00","99, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,2,975000,51.493146,-0.0824681,https://propertydata.co.uk/transaction/D707E535-DC77-0AD9-E053-6B04A8C067CC
+"2021-12-17 00:00:00","136, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,2,335000,51.4896072,-0.0736293,https://propertydata.co.uk/transaction/DBA933FA-13D0-669D-E053-6B04A8C0AD56
+"2021-12-10 00:00:00","47, Aylesbury Road","SE17 2EQ",Flat,"Old stock",Leasehold,1,408000,51.4876923,-0.0876717,https://propertydata.co.uk/transaction/D707E536-0C02-0AD9-E053-6B04A8C067CC
+"2021-11-24 00:00:00","78b, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,4,940750,51.493128,-0.0887155,https://propertydata.co.uk/transaction/D707E536-08D2-0AD9-E053-6B04A8C067CC
+"2021-11-05 00:00:00","Flat 106, Waleran Flats, Old Kent Road","SE1 5UY",Flat,"Old stock",Leasehold,1,298500,51.492253,-0.0826306,https://propertydata.co.uk/transaction/D22473F6-1CE3-7B40-E053-6C04A8C0A630
+"2021-10-29 00:00:00","Flat 1, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,3,385000,51.4913205,-0.0863137,https://propertydata.co.uk/transaction/DBA933FA-1074-669D-E053-6B04A8C0AD56
+"2021-10-22 00:00:00","34, Southwark Park Road","SE16 3RT",Flat,"Old stock",Leasehold,4,490000,51.4924919,-0.0726927,https://propertydata.co.uk/transaction/DBA933FA-10FA-669D-E053-6B04A8C0AD56
+"2021-10-20 00:00:00","10, Bushwood Drive","SE1 5RE","Terraced house","Old stock",Freehold,4,715000,51.4900324,-0.072283,https://propertydata.co.uk/transaction/D4D42646-6DC4-27F6-E053-6C04A8C0A572
+"2021-10-15 00:00:00","320a, East Street","SE17 2SX",Flat,"Old stock",Leasehold,1,423000,51.4900724,-0.0826875,https://propertydata.co.uk/transaction/DBA933FA-1291-669D-E053-6B04A8C0AD56
+"2021-10-15 00:00:00","Flat 17, Fawkham House, Longfield Estate","SE1 5SA",Flat,"Old stock",Leasehold,1,300000,51.4915085,-0.0737969,https://propertydata.co.uk/transaction/EC7AD09A-4993-9200-E053-6C04A8C0E306
+"2021-10-01 00:00:00","66, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,2,475000,51.4878368,-0.0883365,https://propertydata.co.uk/transaction/D22473F6-1DFA-7B40-E053-6C04A8C0A630
+"2021-09-30 00:00:00","Flat 59, St. Peters House, Queens Row","SE17 2PU",Flat,"Old stock",Leasehold,3,415000,51.4847873,-0.0917242,https://propertydata.co.uk/transaction/D22473F6-1C53-7B40-E053-6C04A8C0A630
+"2021-09-30 00:00:00","6, Hillery Close","SE17 1RQ",Flat,"Old stock",Leasehold,2,365000,51.4918577,-0.0883471,https://propertydata.co.uk/transaction/DBA933FA-16AF-669D-E053-6B04A8C0AD56
+"2021-09-28 00:00:00","39, Searles Road","SE1 4YX","Terraced house","Old stock",Freehold,4,935555,51.4935105,-0.0865703,https://propertydata.co.uk/transaction/CFC9085D-1931-9A70-E053-6B04A8C09D6A
+"2021-09-20 00:00:00","3, Old Canal Mews","SE15 6NX",Flat,"Old stock",Leasehold,2,460000,51.4864228,-0.0745436,https://propertydata.co.uk/transaction/D707E536-087D-0AD9-E053-6B04A8C067CC
+"2021-09-20 00:00:00","Flat 49, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,3,385000,51.4913205,-0.0863137,https://propertydata.co.uk/transaction/D22473F6-1BC4-7B40-E053-6C04A8C0A630
+"2021-09-17 00:00:00","270, Merrow Street","SE17 2PA","Terraced house","Old stock",Freehold,4,656000,51.4869584,-0.0874739,https://propertydata.co.uk/transaction/D93B27B1-70C7-3100-E053-6C04A8C08887
+"2021-09-15 00:00:00","Flat 23, Paxton House, Morecambe Street","SE17 1DS",Flat,"Old stock",Leasehold,2,320000,51.4893919,-0.0928827,https://propertydata.co.uk/transaction/D707E536-08F6-0AD9-E053-6B04A8C067CC
+"2021-09-13 00:00:00","33, Henshaw Street","SE17 1PE","Terraced house","Old stock",Freehold,3,930000,51.4929521,-0.0902472,https://propertydata.co.uk/transaction/D93B27B1-73D9-3100-E053-6C04A8C08887
+"2021-09-03 00:00:00","12, Hemp Walk","SE17 1PF",Flat,"Old stock",Leasehold,2,395000,51.492232,-0.0889757,https://propertydata.co.uk/transaction/D707E536-07F1-0AD9-E053-6B04A8C067CC
+"2021-08-26 00:00:00","5, Searles Road","SE1 4YU","Terraced house","Old stock",Freehold,5,1000000,51.4937573,-0.0885575,https://propertydata.co.uk/transaction/CD5A9DCC-45A4-310A-E053-6C04A8C00A1F
+"2021-08-13 00:00:00","22, Trafalgar Avenue","SE15 6NR","Terraced house","Old stock",Freehold,4,1250000,51.4860089,-0.074284,https://propertydata.co.uk/transaction/CD5A9DCC-63BE-310A-E053-6C04A8C00A1F
+"2021-08-11 00:00:00","64, Henshaw Street","SE17 1PD",Flat,"Old stock",Freehold,4,850000,51.4930101,-0.0891526,https://propertydata.co.uk/transaction/CD5A9DCC-6352-310A-E053-6C04A8C00A1F
+"2021-07-30 00:00:00","38, Cadet Drive","SE1 5RU",Flat,"Old stock",Leasehold,1,275000,51.4891665,-0.0699477,https://propertydata.co.uk/transaction/CD5A9DCC-6526-310A-E053-6C04A8C00A1F
+"2021-06-30 00:00:00","Flat 8, Downend Court, Bibury Close","SE15 6AQ",Flat,"Old stock",Leasehold,3,350000,51.4811967,-0.0789122,https://propertydata.co.uk/transaction/CB0035E6-439B-58AE-E053-6B04A8C091AF
+"2021-06-30 00:00:00","9, Setchell Way","SE1 5XR","Semi-detached house","Old stock",Leasehold,3,615000,51.4929821,-0.0771028,https://propertydata.co.uk/transaction/CD5A9DCC-63F6-310A-E053-6C04A8C00A1F
+"2021-06-30 00:00:00","67, Henshaw Street","SE17 1PE","Terraced house","Old stock",Freehold,3,815000,51.4932124,-0.0892617,https://propertydata.co.uk/transaction/D707E536-0D28-0AD9-E053-6B04A8C067CC
+"2021-06-29 00:00:00","36a, Surrey Square","SE17 2JX",Flat,"Old stock",Leasehold,2,500000,51.4891867,-0.0818598,https://propertydata.co.uk/transaction/D4D42646-6A15-27F6-E053-6C04A8C0A572
+"2021-06-29 00:00:00","Flat 5, Spectrum Place, Lytham Street","SE17 2GP",Flat,"Old stock",Leasehold,2,510000,51.4854051,-0.0918823,https://propertydata.co.uk/transaction/D707E536-0D0E-0AD9-E053-6B04A8C067CC
+"2021-06-29 00:00:00","168c, Portland Street","SE17 2NS",Flat,"Old stock",Leasehold,1,350000,51.4875156,-0.0903442,https://propertydata.co.uk/transaction/D4D42646-6E33-27F6-E053-6C04A8C0A572
+"2021-06-28 00:00:00","Flat 57, Dawes House, Orb Street","SE17 1RD",Flat,"Old stock",Leasehold,2,360000,51.4910362,-0.0899526,https://propertydata.co.uk/transaction/CFC9085D-1982-9A70-E053-6B04A8C09D6A
+"2021-06-28 00:00:00","Flat 79, Dawes House, Orb Street","SE17 1RD",Flat,"Old stock",Leasehold,2,325000,51.4902993,-0.08893,https://propertydata.co.uk/transaction/CFC9085D-1B49-9A70-E053-6B04A8C09D6A
+"2021-06-25 00:00:00","Flat 12, Povey House, Beckway Street","SE17 1TP",Flat,"Old stock",Leasehold,3,365000,51.4906568,-0.0846471,https://propertydata.co.uk/transaction/D707E536-0E3A-0AD9-E053-6B04A8C067CC
+"2021-06-25 00:00:00","37, Aylesbury Road","SE17 2EQ","Terraced house","Old stock",Leasehold,1,450000,51.4876298,-0.0879134,https://propertydata.co.uk/transaction/D4D42646-6C01-27F6-E053-6C04A8C0A572
+"2021-06-24 00:00:00","29, Setchell Way","SE1 5XR",Flat,"Old stock",Leasehold,2,470000,51.4929821,-0.0771028,https://propertydata.co.uk/transaction/D22473F6-1D07-7B40-E053-6C04A8C0A630
+"2021-06-24 00:00:00","19, Sondes Street","SE17 2PQ","Semi-detached house","Old stock",Freehold,2,505000,51.4852958,-0.0896263,https://propertydata.co.uk/transaction/D707E535-DB86-0AD9-E053-6B04A8C067CC
+"2021-06-24 00:00:00","9, Portland Street","SE17 2PF","Terraced house","Old stock",Freehold,2,640000,51.4848813,-0.0890715,https://propertydata.co.uk/transaction/CB0035E6-44BD-58AE-E053-6B04A8C091AF
+"2021-06-21 00:00:00","Flat 3, Gloucester Court, Rowcross Street","SE1 5HQ",Flat,"Old stock",Leasehold,3,495000,51.4812595,-0.0759912,https://propertydata.co.uk/transaction/CFC9085D-1A88-9A70-E053-6B04A8C09D6A
+"2021-06-18 00:00:00","11b, Trafalgar Avenue","SE15 6NP",Flat,"Old stock",Leasehold,1,360000,51.4861353,-0.0737878,https://propertydata.co.uk/transaction/C8A3A576-AE0C-0425-E053-6C04A8C0947B
+"2021-06-17 00:00:00","79, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,4,840000,51.4934132,-0.0819644,https://propertydata.co.uk/transaction/CFC9085D-1937-9A70-E053-6B04A8C09D6A
+"2021-06-16 00:00:00","89, Mina Road","SE17 2QS","Terraced house","Old stock",Freehold,3,820000,51.4867637,-0.0802748,https://propertydata.co.uk/transaction/CD5A9DCC-4331-310A-E053-6C04A8C00A1F
+"2021-06-15 00:00:00","61, Darwin Street","SE17 1EZ",Flat,"Old stock",Leasehold,3,567000,51.4924308,-0.0868906,https://propertydata.co.uk/transaction/CFC9085D-18FF-9A70-E053-6B04A8C09D6A
+"2021-06-10 00:00:00","5, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,3,1030000,51.4859652,-0.0956958,https://propertydata.co.uk/transaction/CFC9085C-C611-9A70-E053-6B04A8C09D6A
+"2021-06-04 00:00:00","Flat 2, Detling House, Congreve Street","SE17 1SZ",Flat,"Old stock",Leasehold,3,510000,51.4905025,-0.0832596,https://propertydata.co.uk/transaction/CD5A9DCC-6427-310A-E053-6C04A8C00A1F
+"2021-05-26 00:00:00","Flat 2, Culand House, Congreve Street","SE17 1ST",Flat,"Old stock",Leasehold,3,480000,51.4904197,-0.0824092,https://propertydata.co.uk/transaction/D4D42646-6C3B-27F6-E053-6C04A8C0A572
+"2021-05-25 00:00:00","175, Merrow Street","SE17 2NY",Flat,"Old stock",Leasehold,1,386000,51.4871641,-0.0875795,https://propertydata.co.uk/transaction/CFC9085D-1C34-9A70-E053-6B04A8C09D6A
+"2021-05-20 00:00:00","Flat 10, Paxton House, Morecambe Street","SE17 1DS",Flat,"Old stock",Leasehold,1,330000,51.4893919,-0.0928827,https://propertydata.co.uk/transaction/D4D42646-6BB1-27F6-E053-6C04A8C0A572
+"2021-05-17 00:00:00","Flat 4, Groombridge House, Upnor Way","SE17 2RP",Flat,"Old stock",Leasehold,1,272500,51.4879974,-0.0792013,https://propertydata.co.uk/transaction/CFC9085D-1AE4-9A70-E053-6B04A8C09D6A
+"2021-05-10 00:00:00","80, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,2,455000,51.4880343,-0.0878581,https://propertydata.co.uk/transaction/CB0035E6-4576-58AE-E053-6B04A8C091AF
+"2021-05-04 00:00:00","87, Rodney Road","SE17 1RF",Flat,"Old stock",Leasehold,1,295000,51.4916784,-0.09157,https://propertydata.co.uk/transaction/C3C3F9B6-60A8-362B-E053-6B04A8C03ACC
+"2021-04-30 00:00:00","60, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,1,410000,51.4877973,-0.0885187,https://propertydata.co.uk/transaction/D93B27B1-6F8F-3100-E053-6C04A8C08887
+"2021-04-30 00:00:00","60, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,1,410000,51.4878236,-0.0882125,https://propertydata.co.uk/transaction/E7B085FC-DA96-7E31-E053-6C04A8C0E67F
+"2021-04-26 00:00:00","Flat 26, Quedgeley Court, Ebley Close","SE15 6BD",Flat,"Old stock",Leasehold,3,399950,51.4858204,-0.0721864,https://propertydata.co.uk/transaction/CB0035E6-4511-58AE-E053-6B04A8C091AF
+"2021-04-23 00:00:00","75, Marcia Road","SE1 5XF","Terraced house","Old stock",Freehold,4,740000,51.4897003,-0.0780135,https://propertydata.co.uk/transaction/CD5A9DCC-63F9-310A-E053-6C04A8C00A1F
+"2021-04-21 00:00:00","Flat 59, Andoversford Court, Bibury Close","SE15 6AF",Flat,"Old stock",Leasehold,2,385000,51.4797332,-0.0742403,https://propertydata.co.uk/transaction/CD5A9DCC-648C-310A-E053-6C04A8C00A1F
+"2021-04-20 00:00:00","34, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,3,835000,51.492745,-0.0900671,https://propertydata.co.uk/transaction/C3C3F9B6-5CDE-362B-E053-6B04A8C03ACC
+"2021-04-09 00:00:00","55, Chaucer Drive","SE1 5TA","Terraced house","Old stock",Freehold,1,380000,51.4896194,-0.0733705,https://propertydata.co.uk/transaction/C8A3A576-ACE6-0425-E053-6C04A8C0947B
+"2021-03-31 00:00:00","9, Bartholomew Street","SE1 4AJ","Terraced house","Old stock",Freehold,3,855000,51.4945986,-0.0891873,https://propertydata.co.uk/transaction/C8A3A576-8D2F-0425-E053-6C04A8C0947B
+"2021-03-26 00:00:00","13, Parkhouse Street","SE5 7TQ",Flat,"Old stock",Leasehold,3,585000,51.480546,-0.0878543,https://propertydata.co.uk/transaction/C6209F5F-E816-295E-E053-6C04A8C0DDCC
+"2021-03-24 00:00:00","31, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,4,1000000,51.4853553,-0.0973875,https://propertydata.co.uk/transaction/C6209F5F-BE87-295E-E053-6C04A8C0DDCC
+"2021-03-24 00:00:00","13, Henshaw Street","SE17 1PE","Terraced house","Old stock",Freehold,3,825000,51.4927506,-0.090898,https://propertydata.co.uk/transaction/C3C3F9B6-607C-362B-E053-6B04A8C03ACC
+"2021-03-23 00:00:00","Flat 32, Dhonau House, Longfield Estate","SE1 5TL",Flat,"Old stock",Leasehold,1,275000,51.4926715,-0.074252,https://propertydata.co.uk/transaction/C6209F5F-E691-295E-E053-6C04A8C0DDCC
+"2021-03-19 00:00:00","94b, Smyrks Road","SE17 2QP",Flat,"Old stock",Leasehold,1,345000,51.4873291,-0.0809141,https://propertydata.co.uk/transaction/C3C3F9B6-5EEE-362B-E053-6B04A8C03ACC
+"2021-03-19 00:00:00","38, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,3,800000,51.4928215,-0.0899543,https://propertydata.co.uk/transaction/C3C3F9B6-609C-362B-E053-6B04A8C03ACC
+"2021-03-16 00:00:00","128, Fort Road","SE1 5PT","Terraced house","Old stock",Freehold,3,1010000,51.4912001,-0.0715618,https://propertydata.co.uk/transaction/C3C3F9B6-35ED-362B-E053-6B04A8C03ACC
+"2021-03-10 00:00:00","Flat 13, Harry Hinkins House, Walworth Place","SE17 2TH",Flat,"Old stock",Leasehold,3,352000,51.4868661,-0.0940285,https://propertydata.co.uk/transaction/C6209F5F-E608-295E-E053-6C04A8C0DDCC
+"2021-03-08 00:00:00","16, Bushwood Drive","SE1 5RE","Terraced house","Old stock",Freehold,5,750000,51.4901229,-0.0727316,https://propertydata.co.uk/transaction/C3C3F9B6-5E01-362B-E053-6B04A8C03ACC
+"2021-03-05 00:00:00","Flat 4, Detling House, Congreve Street","SE17 1SZ",Flat,"Old stock",Leasehold,3,470000,51.4905025,-0.0832596,https://propertydata.co.uk/transaction/C3C3F9B6-5DCC-362B-E053-6B04A8C03ACC
+"2021-03-04 00:00:00","108, Oxley Close","SE1 5HP",Flat,"Old stock",Leasehold,1,320000,51.4889991,-0.0727618,https://propertydata.co.uk/transaction/C8A3A576-AFE7-0425-E053-6C04A8C0947B
+"2021-03-01 00:00:00","47, Setchell Way","SE1 5XR",Flat,"Old stock",Leasehold,3,625000,51.4929821,-0.0771028,https://propertydata.co.uk/transaction/C3C3F9B6-5B66-362B-E053-6B04A8C03ACC
+"2021-02-26 00:00:00","1, Salisbury Close","SE17 1BY",Flat,"Old stock",Leasehold,2,430000,51.4923693,-0.0896053,https://propertydata.co.uk/transaction/C3C3F9B6-60DA-362B-E053-6B04A8C03ACC
+"2021-02-25 00:00:00","Flat 14, Cam Court, Bibury Close","SE15 6AG",Flat,"Old stock",Leasehold,3,360000,51.481639,-0.0784615,https://propertydata.co.uk/transaction/C3C3F9B6-5C5B-362B-E053-6B04A8C03ACC
+"2021-02-19 00:00:00","Flat 10, James Stroud House, Walworth Place","SE17 2TQ",Flat,"Old stock",Leasehold,3,350000,51.4872359,-0.094045,https://propertydata.co.uk/transaction/C3C3F9B6-5C0A-362B-E053-6B04A8C03ACC
+"2021-02-12 00:00:00","67, Wooler Street","SE17 2ED","Terraced house","Old stock",Freehold,2,650000,51.488173,-0.0878376,https://propertydata.co.uk/transaction/C3C3F9B6-33C4-362B-E053-6B04A8C03ACC
+"2021-02-10 00:00:00","41, Cadet Drive","SE1 5RU","Terraced house","Old stock",Leasehold,1,373000,51.4890638,-0.0700257,https://propertydata.co.uk/transaction/C18F412B-63D7-81A6-E053-6B04A8C0AD18
+"2021-02-08 00:00:00","55, Aylesbury Road","SE17 2EQ",Flat,"Old stock",Leasehold,1,405000,51.4876753,-0.0875051,https://propertydata.co.uk/transaction/C18F412B-61AF-81A6-E053-6B04A8C0AD18
+"2021-01-29 00:00:00","100, Cobourg Road","SE5 0JB","Terraced house","Old stock",Freehold,5,800000,51.4844449,-0.076857,https://propertydata.co.uk/transaction/CFC9085D-18E2-9A70-E053-6B04A8C09D6A
+"2021-01-14 00:00:00","70, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,1,380000,51.4874215,-0.0879092,https://propertydata.co.uk/transaction/EED73E76-3C1E-6AF3-E053-6C04A8C08ABA
+"2021-01-08 00:00:00","Flat 6, Littlebourne House, Upnor Way","SE17 2RW",Flat,"Old stock",Leasehold,1,275000,51.4834147,-0.0928598,https://propertydata.co.uk/transaction/BEF7EBBF-5DD7-7A76-E053-6B04A8C092F7
+"2021-01-08 00:00:00","Flat 11, Westonbirt Court, Ebley Close","SE15 6BH",Flat,"Old stock",Leasehold,3,340000,51.4813874,-0.0768302,https://propertydata.co.uk/transaction/BEF7EBBF-5DC3-7A76-E053-6B04A8C092F7
+"2021-01-05 00:00:00","Flat 4, Spectrum Place, Lytham Street","SE17 2GP",Flat,"Old stock",Leasehold,2,500000,51.4853581,-0.0919885,https://propertydata.co.uk/transaction/C18F412B-6165-81A6-E053-6B04A8C0AD18
+"2021-01-05 00:00:00","Flat 8, Dormstone House, Congreve Street","SE17 1TA",Flat,"Old stock",Leasehold,3,350000,51.4908771,-0.0835263,https://propertydata.co.uk/transaction/BEF7EBBF-3DA9-7A76-E053-6B04A8C092F7
+"2020-12-22 00:00:00","7, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,2,460000,51.4857418,-0.0905478,https://propertydata.co.uk/transaction/BC8936BC-0384-0E2C-E053-6C04A8C0DBF4
+"2020-12-18 00:00:00","7, Aylesbury Road","SE17 2EQ",Flat,"Old stock",Leasehold,1,420000,51.4875642,-0.0883906,https://propertydata.co.uk/transaction/BC8936BC-04A2-0E2C-E053-6C04A8C0DBF4
+"2020-12-17 00:00:00","94, Mina Road","SE17 2QS","Terraced house","Old stock",Freehold,3,615000,51.4870502,-0.0800885,https://propertydata.co.uk/transaction/BC8936BC-04CA-0E2C-E053-6C04A8C0DBF4
+"2020-12-17 00:00:00","Flat B, 64, Surrey Square","SE17 2JX",Flat,"Old stock",Leasehold,1,350000,51.4884444,-0.0836041,https://propertydata.co.uk/transaction/BEF7EBBF-5F5B-7A76-E053-6B04A8C092F7
+"2020-12-14 00:00:00","Flat 36, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,1,337500,51.4913205,-0.0863137,https://propertydata.co.uk/transaction/BC8936BC-03F7-0E2C-E053-6C04A8C0DBF4
+"2020-12-14 00:00:00","4, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,2,565000,51.4853594,-0.0908759,https://propertydata.co.uk/transaction/BC8936BB-E680-0E2C-E053-6C04A8C0DBF4
+"2020-12-11 00:00:00","Flat 9, Bridport, Cadiz Street","SE17 2TL",Flat,"Old stock",Leasehold,1,310000,51.4870374,-0.0931262,https://propertydata.co.uk/transaction/BA558B33-2437-76EF-E053-6B04A8C0B4B7
+"2020-12-11 00:00:00","Flat 12, James Stroud House, Walworth Place","SE17 2TQ",Flat,"Old stock",Leasehold,3,361000,51.4872359,-0.094045,https://propertydata.co.uk/transaction/BC8936BC-0386-0E2C-E053-6C04A8C0DBF4
+"2020-12-11 00:00:00","Flat 96, Dawes House, Orb Street","SE17 1RD",Flat,"Old stock",Leasehold,3,376000,51.4910362,-0.0899526,https://propertydata.co.uk/transaction/BEF7EBBF-5DDB-7A76-E053-6B04A8C092F7
+"2020-12-11 00:00:00","77, Henshaw Street","SE17 1PE","Terraced house","Old stock",Freehold,3,702500,51.4932846,-0.0888933,https://propertydata.co.uk/transaction/BC8936BC-0357-0E2C-E053-6C04A8C0DBF4
+"2020-12-10 00:00:00","Flat 44, St. Peters House, Queens Row","SE17 2PU",Flat,"Old stock",Leasehold,2,325000,51.4848158,-0.0918356,https://propertydata.co.uk/transaction/BC8936BC-0565-0E2C-E053-6C04A8C0DBF4
+"2020-12-10 00:00:00","20, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,5,1250000,51.485431,-0.096443,https://propertydata.co.uk/transaction/BC8936BB-2E12-0E2C-E053-6C04A8C0DBF4
+"2020-12-09 00:00:00","66, Trafalgar Avenue","SE15 6NR","Terraced house","Old stock",Freehold,4,1062500,51.4848627,-0.074287,https://propertydata.co.uk/transaction/BC8936BC-03BF-0E2C-E053-6C04A8C0DBF4
+"2020-11-27 00:00:00","36, Elsted Street","SE17 1QG","Terraced house","Old stock",Freehold,2,575000,51.4903614,-0.0865335,https://propertydata.co.uk/transaction/BA558B33-24B1-76EF-E053-6B04A8C0B4B7
+"2020-11-25 00:00:00","60, Oxley Close","SE1 5HN",Flat,"Old stock",Freehold,1,355000,51.4886927,-0.0709525,https://propertydata.co.uk/transaction/BA558B33-2963-76EF-E053-6B04A8C0B4B7
+"2020-11-17 00:00:00","99, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,2,630000,51.493146,-0.0824681,https://propertydata.co.uk/transaction/BA558B33-0045-76EF-E053-6B04A8C0B4B7
+"2020-11-13 00:00:00","139d, Chatham Street","SE17 1PA",Flat,"Old stock",Leasehold,2,470000,51.493059,-0.0871109,https://propertydata.co.uk/transaction/B82222ED-5A46-6691-E053-6B04A8C02FB2
+"2020-10-29 00:00:00","104, Swan Mead","SE1 4SU",Flat,"Old stock",Leasehold,2,405000,51.4946701,-0.0821095,https://propertydata.co.uk/transaction/BEF7EBBF-5D6C-7A76-E053-6B04A8C092F7
+"2020-10-16 00:00:00","8, Phelp Street","SE17 2PH","Terraced house","Old stock",Freehold,2,540000,51.484518,-0.0898905,https://propertydata.co.uk/transaction/B82222ED-57BB-6691-E053-6B04A8C02FB2
+"2020-10-16 00:00:00","50, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,2,440000,51.4875193,-0.0876828,https://propertydata.co.uk/transaction/B82222ED-5933-6691-E053-6B04A8C02FB2
+"2020-10-16 00:00:00","18, Dragon Road","SE15 6QU",Flat,"Old stock",Leasehold,2,440000,51.4815303,-0.0809792,https://propertydata.co.uk/transaction/B5755FFE-6CD5-7D01-E053-6C04A8C036B6
+"2020-10-13 00:00:00","11, Chaucer Drive","SE1 5TA",Flat,"Old stock",Leasehold,1,295000,51.4903133,-0.0741983,https://propertydata.co.uk/transaction/B5755FFE-6CF0-7D01-E053-6C04A8C036B6
+"2020-10-12 00:00:00","11, Wooler Street","SE17 2ED",Flat,"Old stock",Leasehold,1,395000,51.487603,-0.0895784,https://propertydata.co.uk/transaction/B5755FFE-6E9D-7D01-E053-6C04A8C036B6
+"2020-10-02 00:00:00","66a, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,2,422000,51.4878368,-0.0883365,https://propertydata.co.uk/transaction/B5755FFE-6D90-7D01-E053-6C04A8C036B6
+"2020-10-01 00:00:00","177, Trafalgar Street","SE17 2TP",Flat,"Old stock",Leasehold,3,456000,51.4884773,-0.0883111,https://propertydata.co.uk/transaction/BA558B33-25C2-76EF-E053-6B04A8C0B4B7
+"2020-09-30 00:00:00","9, Ivy Church Lane","SE17 2RN",Flat,"Old stock",Leasehold,3,357500,51.4884014,-0.0784907,https://propertydata.co.uk/transaction/B5755FFE-6CF7-7D01-E053-6C04A8C036B6
+"2020-09-25 00:00:00","39, Marcia Road","SE1 5XF","Terraced house","Old stock",Freehold,4,740000,51.4902948,-0.0790698,https://propertydata.co.uk/transaction/B5755FFE-6CBF-7D01-E053-6C04A8C036B6
+"2020-09-18 00:00:00","3a, Parkhouse Street","SE5 7TQ",Flat,"Old stock",Leasehold,4,605000,51.4803395,-0.0880654,https://propertydata.co.uk/transaction/BEF7EBBF-5F37-7A76-E053-6B04A8C092F7
+"2020-09-18 00:00:00","Flat 20, Ellery House, Beckway Street","SE17 1TN",Flat,"Old stock",Leasehold,1,267000,51.4911419,-0.0858021,https://propertydata.co.uk/transaction/B5755FFE-6D08-7D01-E053-6C04A8C036B6
+"2020-09-16 00:00:00","7, Minnow Walk","SE17 2JR",Flat,"Old stock",Leasehold,1,315000,51.4900055,-0.0814919,https://propertydata.co.uk/transaction/B32EBB13-F01C-3C99-E053-6C04A8C09CA1
+"2020-09-14 00:00:00","Flat 32, Quedgeley Court, Ebley Close","SE15 6BD",Flat,"Old stock",Leasehold,3,405000,51.4812595,-0.0759912,https://propertydata.co.uk/transaction/B5755FFE-6CDE-7D01-E053-6C04A8C036B6
+"2020-09-11 00:00:00","106, Mina Road","SE17 2QS","Terraced house","Old stock",Freehold,3,637000,51.4869073,-0.0805045,https://propertydata.co.uk/transaction/B5755FFE-53B5-7D01-E053-6C04A8C036B6
+"2020-09-04 00:00:00","Flat 29, Swanley House, Kinglake Estate","SE17 2LF",Flat,"Old stock",Leasehold,2,305000,51.4886836,-0.0790996,https://propertydata.co.uk/transaction/B32EBB13-F074-3C99-E053-6C04A8C09CA1
+"2020-09-02 00:00:00","5, Old Canal Mews","SE15 6NX",Flat,"Old stock",Leasehold,3,765000,51.4864228,-0.0745436,https://propertydata.co.uk/transaction/B5755FFE-6CF3-7D01-E053-6C04A8C036B6
+"2020-09-01 00:00:00","44, Trafalgar Avenue","SE15 6NR","Terraced house","Old stock",Freehold,4,1175000,51.4856729,-0.0743886,https://propertydata.co.uk/transaction/EC7AD09A-49D2-9200-E053-6C04A8C0E306
+"2020-08-26 00:00:00","196, Trafalgar Street","SE17 2TP","Terraced house","Old stock",Freehold,4,660000,51.4883475,-0.0881456,https://propertydata.co.uk/transaction/B0A9D11B-D611-4C1F-E053-6C04A8C0D716
+"2020-08-26 00:00:00","40, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,1,390040,51.4874775,-0.0878389,https://propertydata.co.uk/transaction/B32EBB13-F12C-3C99-E053-6C04A8C09CA1
+"2020-08-24 00:00:00","132, Trafalgar Street","SE17 2TP","Terraced house","Old stock",Freehold,3,700000,51.4878118,-0.0901602,https://propertydata.co.uk/transaction/B32EBB13-D7D6-3C99-E053-6C04A8C09CA1
+"2020-08-21 00:00:00","Flat 12, Ash House, Longfield Estate","SE1 5TN",Flat,"Old stock",Leasehold,3,450000,51.4926715,-0.074252,https://propertydata.co.uk/transaction/B32EBB13-F097-3C99-E053-6C04A8C09CA1
+"2020-08-21 00:00:00","11, Hillery Close","SE17 1RQ",Flat,"Old stock",Leasehold,2,340000,51.4917106,-0.0884357,https://propertydata.co.uk/transaction/B0A9D11B-D2D9-4C1F-E053-6C04A8C0D716
+"2020-08-07 00:00:00","Flat 19, Pincombe House, Orb Street","SE17 1AH",Flat,"Old stock",Leasehold,2,375000,51.4896612,-0.0896042,https://propertydata.co.uk/transaction/B0A9D11B-D60B-4C1F-E053-6C04A8C0D716
+"2020-08-07 00:00:00","Flat 33, Procter House, Avondale Square","SE1 5EZ",Flat,"Old stock",Leasehold,1,257500,51.4871916,-0.0690323,https://propertydata.co.uk/transaction/B32EBB13-F172-3C99-E053-6C04A8C09CA1
+"2020-08-05 00:00:00","12, Keats Close","SE1 5TZ",Flat,"Old stock",Freehold,4,730000,51.4909041,-0.0753354,https://propertydata.co.uk/transaction/B0A9D11B-D616-4C1F-E053-6C04A8C0D716
+"2020-08-04 00:00:00","24, Southwark Park Road","SE16 3RT",Flat,"Old stock",Leasehold,3,600000,51.4925785,-0.0730454,https://propertydata.co.uk/transaction/B0A9D11B-D39C-4C1F-E053-6C04A8C0D716
+"2020-07-13 00:00:00","33a, Darwin Street","SE17 1HA",Flat,"Old stock",Leasehold,1,402000,51.4930476,-0.0858936,https://propertydata.co.uk/transaction/B82222ED-5A7B-6691-E053-6B04A8C02FB2
+"2020-06-30 00:00:00","30, John Maurice Close","SE17 1PZ","Semi-detached house","Old stock",Freehold,3,600000,51.4930464,-0.0909231,https://propertydata.co.uk/transaction/AC07BBD0-79F5-0445-E053-6C04A8C01E31
+"2020-06-26 00:00:00","34, Alscot Way","SE1 5XU",Flat,"Old stock",Leasehold,1,290000,51.4924081,-0.0764428,https://propertydata.co.uk/transaction/AE4D86D4-7079-4619-E053-6C04A8C03CD0
+"2020-06-24 00:00:00","110, Albany Road","SE5 0DA","Terraced house","Old stock",Freehold,3,810000,51.4861483,-0.0798604,https://propertydata.co.uk/transaction/AC07BBD0-3858-0445-E053-6C04A8C01E31
+"2020-06-19 00:00:00","42, Cadet Drive","SE1 5RU","Terraced house","Old stock",Freehold,4,650000,51.4891806,-0.0703087,https://propertydata.co.uk/transaction/AC07BBD0-7C33-0445-E053-6C04A8C01E31
+"2020-06-18 00:00:00","Flat 49, St. Peters House, Queens Row","SE17 2PU",Flat,"Old stock",Leasehold,2,330000,51.4848158,-0.0918356,https://propertydata.co.uk/transaction/AC07BBD0-7A99-0445-E053-6C04A8C01E31
+"2020-06-12 00:00:00","Flat 60, Trafalgar House, Bronti Close","SE17 2HF",Flat,"Old stock",Leasehold,2,345000,51.4879345,-0.0930384,https://propertydata.co.uk/transaction/AE4D86D4-73D3-4619-E053-6C04A8C03CD0
+"2020-06-05 00:00:00","Flat 72, Astley House, Rowcross Street","SE1 5HT",Flat,"Old stock",Leasehold,2,300000,51.4881394,-0.0740077,https://propertydata.co.uk/transaction/AC07BBD0-7ACB-0445-E053-6C04A8C01E31
+"2020-05-18 00:00:00","94b, Smyrks Road","SE17 2QP",Flat,"Old stock",Leasehold,1,254000,51.4873291,-0.0809141,https://propertydata.co.uk/transaction/B32EBB13-F357-3C99-E053-6C04A8C09CA1
+"2020-05-13 00:00:00","6, Alscot Way","SE1 5XT","Terraced house","Old stock",Freehold,3,570000,51.4924081,-0.0764428,https://propertydata.co.uk/transaction/AE4D86D4-6FD6-4619-E053-6C04A8C03CD0
+"2020-05-11 00:00:00","8, Tisdall Place","SE17 1QQ","Terraced house","Old stock",Freehold,3,698000,51.4902965,-0.0871449,https://propertydata.co.uk/transaction/A96E4ACC-7CE1-9205-E053-6C04A8C0DA09
+"2020-05-01 00:00:00","19, Alscot Way","SE1 5XU","Terraced house","Old stock",Freehold,3,610000,51.492309,-0.0765871,https://propertydata.co.uk/transaction/A96E4ACC-9AFC-9205-E053-6C04A8C0DA09
+"2020-04-20 00:00:00","40, Marcia Road","SE1 5XF","Terraced house","Old stock",Freehold,4,727500,51.4897743,-0.078579,https://propertydata.co.uk/transaction/BC8936BC-03AE-0E2C-E053-6C04A8C0DBF4
+"2020-04-01 00:00:00","Flat 21, Woodsford, Portland Street","SE17 2TN",Flat,"Old stock",Leasehold,1,280000,51.4851291,-0.0892575,https://propertydata.co.uk/transaction/A96E4ACC-98D2-9205-E053-6C04A8C0DA09
+"2020-03-31 00:00:00","2, Trafalgar Avenue","SE15 6NR","Terraced house","Old stock",Freehold,5,1100000,51.4867937,-0.0740056,https://propertydata.co.uk/transaction/A96E4ACC-973B-9205-E053-6C04A8C0DA09
+"2020-03-31 00:00:00","Flat 38, Stansfeld House, Longfield Estate","SE1 5PP",Flat,"Old stock",Leasehold,1,275000,51.4926715,-0.074252,https://propertydata.co.uk/transaction/A96E4ACC-97FB-9205-E053-6C04A8C0DA09
+"2020-03-30 00:00:00","30, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,3,811000,51.4927244,-0.0902047,https://propertydata.co.uk/transaction/BA558B33-26EE-76EF-E053-6B04A8C0B4B7
+"2020-03-20 00:00:00","Flat 11, Spectrum Place, Lytham Street","SE17 2GP",Flat,"Old stock",Leasehold,2,490000,51.485358,-0.091989,https://propertydata.co.uk/transaction/A71375FD-EB88-7576-E053-6C04A8C0462F
+"2020-03-20 00:00:00","52, Liverpool Grove","SE17 2HJ","Terraced house","Old stock",Freehold,3,875000,51.486203,-0.09208,https://propertydata.co.uk/transaction/A71375FD-E0FB-7576-E053-6C04A8C0462F
+"2020-03-16 00:00:00","Flat 36, Mawbey House, Old Kent Road","SE1 5PG",Flat,"Old stock",Leasehold,3,350000,51.48645,-0.0714,https://propertydata.co.uk/transaction/A71375FD-EB57-7576-E053-6C04A8C0462F
+"2020-03-13 00:00:00","Flat 10, Culand House, Congreve Street","SE17 1ST",Flat,"Old stock",Leasehold,2,350000,51.490425,-0.082425,https://propertydata.co.uk/transaction/A71375FD-EB36-7576-E053-6C04A8C0462F
+"2020-03-13 00:00:00","43, Phelp Street","SE17 2PL","Terraced house","Old stock",Freehold,3,585000,51.484983,-0.090546,https://propertydata.co.uk/transaction/A71375FD-E0F9-7576-E053-6C04A8C0462F
+"2020-03-09 00:00:00","Flat 8, Stansfeld House, Longfield Estate","SE1 5PP",Flat,"Old stock",Leasehold,2,360000,51.491174,-0.073217,https://propertydata.co.uk/transaction/A71375FD-EC0B-7576-E053-6C04A8C0462F
+"2020-03-06 00:00:00","15, Alscot Way","SE1 5XU","Terraced house","Old stock",Freehold,3,590000,51.492777,-0.07557,https://propertydata.co.uk/transaction/A71375FD-EB29-7576-E053-6C04A8C0462F
+"2020-03-03 00:00:00","11, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,4,870000,51.4856565,-0.0955922,https://propertydata.co.uk/transaction/A96E4ACC-7C96-9205-E053-6C04A8C0DA09
+"2020-02-28 00:00:00","Flat 52, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,3,385000,51.49129,-0.086336,https://propertydata.co.uk/transaction/A71375FD-EC76-7576-E053-6C04A8C0462F
+"2020-02-26 00:00:00","Flat 15, East Point, Avondale Square","SE1 5NS",Flat,"Old stock",Leasehold,1,223000,51.48757,-0.068991,https://propertydata.co.uk/transaction/A2479555-A129-74C7-E053-6B04A8C0887D
+"2020-02-24 00:00:00","17, Salisbury Close","SE17 1BY",Flat,"Old stock",Leasehold,2,415000,51.4920671,-0.0893427,https://propertydata.co.uk/transaction/A96E4ACC-9B2E-9205-E053-6C04A8C0DA09
+"2020-02-14 00:00:00","16, Sutherland Square","SE17 3EQ","Terraced house","Old stock",Freehold,4,820000,51.485499,-0.096329,https://propertydata.co.uk/transaction/A2479555-0F83-74C7-E053-6B04A8C0887D
+"2020-02-12 00:00:00","71, Lynton Road","SE1 5QT","Terraced house","Old stock",Freehold,3,999000,51.490299,-0.071411,https://propertydata.co.uk/transaction/A2479555-8E5C-74C7-E053-6B04A8C0887D
+"2020-02-10 00:00:00","Flat 12, St. Stephens House, Phelp Street","SE17 2PR",Flat,"Old stock",Leasehold,2,335000,51.484637,-0.090878,https://propertydata.co.uk/transaction/9FF0D96A-1A4D-11ED-E053-6C04A8C06383
+"2020-02-07 00:00:00","23, Oxley Close","SE1 5HF","Terraced house","Old stock",Freehold,2,405000,51.489188,-0.071673,https://propertydata.co.uk/transaction/9FF0D96A-395E-11ED-E053-6C04A8C06383
+"2020-02-05 00:00:00","9, Oxley Close","SE1 5HF","Terraced house","Old stock",Freehold,2,445000,51.489188,-0.071673,https://propertydata.co.uk/transaction/9FF0D96A-3962-11ED-E053-6C04A8C06383
+"2020-02-03 00:00:00","175, Merrow Street","SE17 2NY",Flat,"Old stock",Leasehold,1,397500,51.487166,-0.087675,https://propertydata.co.uk/transaction/9FF0D96A-375C-11ED-E053-6C04A8C06383
+"2020-01-30 00:00:00","17, Bartholomew Street","SE1 4AJ","Terraced house","Old stock",Freehold,3,920000,51.494601,-0.089237,https://propertydata.co.uk/transaction/9FF0D96A-34E7-11ED-E053-6C04A8C06383
+"2020-01-28 00:00:00","23a, Charleston Street","SE17 1NG",Flat,"Old stock",Leasehold,2,450000,51.4910518,-0.0943384,https://propertydata.co.uk/transaction/A96E4ACC-9A16-9205-E053-6C04A8C0DA09
+"2020-01-24 00:00:00","30, Fielding Street","SE17 3HD","Terraced house","Old stock",Freehold,3,730000,51.485423,-0.094964,https://propertydata.co.uk/transaction/9FF0D96A-19F6-11ED-E053-6C04A8C06383
+"2020-01-24 00:00:00","3, Townley Street","SE17 1DZ","Semi-detached house","Old stock",Freehold,3,972500,51.4899,-0.092577,https://propertydata.co.uk/transaction/A2479555-A20A-74C7-E053-6B04A8C0887D
+"2020-01-20 00:00:00","24, Date Street","SE17 2HQ","Terraced house","Old stock",Freehold,2,694000,51.48768,-0.092738,https://propertydata.co.uk/transaction/9FF0D96A-350A-11ED-E053-6C04A8C06383
+"2020-01-13 00:00:00","Flat 41, Dawes House, Orb Street","SE17 1RE",Flat,"Old stock",Leasehold,2,340000,51.490298,-0.088956,https://propertydata.co.uk/transaction/9DBAD222-4B14-6EB3-E053-6B04A8C0F257
+"2020-01-07 00:00:00","Flat 26, Broadmayne, Portland Street","SE17 2DS",Flat,"Old stock",Leasehold,1,227000,51.488124,-0.091279,https://propertydata.co.uk/transaction/9DBAD222-4B75-6EB3-E053-6B04A8C0F257
+"2019-12-20 00:00:00","Flat 117, Roffo Court, Boundary Lane","SE17 2FP",Flat,"Old stock",Leasehold,2,487000,51.4833346,-0.0925141,https://propertydata.co.uk/transaction/9FF0D96A-3689-11ED-E053-6C04A8C06383
+"2019-12-19 00:00:00","Flat 15, Comus House, Congreve Street","SE17 1TG",Flat,"Old stock",Leasehold,1,259200,51.4917231,-0.08428,https://propertydata.co.uk/transaction/9DBAD222-4B8C-6EB3-E053-6B04A8C0F257
+"2019-12-16 00:00:00","First Floor Flat, 364, Old Kent Road","SE1 5AA",Flat,"Old stock",Leasehold,1,340000,51.4871481,-0.0749125,https://propertydata.co.uk/transaction/9DBAD222-4CAD-6EB3-E053-6B04A8C0F257
+"2019-12-04 00:00:00","110, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,3,363000,51.4894287,-0.0737465,https://propertydata.co.uk/transaction/9B361206-C2CD-1904-E053-6B04A8C0EEB5
+"2019-12-02 00:00:00","2, Cadet Drive","SE1 5RT","Detached house","Old stock",Freehold,3,720000,51.4898482,-0.0710283,https://propertydata.co.uk/transaction/9B361206-C52C-1904-E053-6B04A8C0EEB5
+"2019-11-29 00:00:00","Flat 3, Dawes House, Orb Street","SE17 1RE",Flat,"Old stock",Leasehold,2,337500,51.4910362,-0.0899526,https://propertydata.co.uk/transaction/9B361206-C210-1904-E053-6B04A8C0EEB5
+"2019-11-25 00:00:00","Flat 46, Lulworth, Portland Street","SE17 2DT",Flat,"Old stock",Leasehold,1,260000,51.4885725,-0.0907702,https://propertydata.co.uk/transaction/9B361206-C182-1904-E053-6B04A8C0EEB5
+"2019-11-20 00:00:00","16, Trafalgar Avenue","SE15 6NR","Terraced house","Old stock",Freehold,4,1225000,51.4861435,-0.0742355,https://propertydata.co.uk/transaction/9B361206-C0E9-1904-E053-6B04A8C0EEB5
+"2019-11-18 00:00:00","63, Chaucer Drive","SE1 5TA","Terraced house","Old stock",Freehold,1,370000,51.489483,-0.0734077,https://propertydata.co.uk/transaction/9B361206-C1D8-1904-E053-6B04A8C0EEB5
+"2019-11-15 00:00:00","9, Morecambe Street","SE17 1DX","Semi-detached house","Old stock",Freehold,3,2450000,51.4900789,-0.0930995,https://propertydata.co.uk/transaction/9B361206-C543-1904-E053-6B04A8C0EEB5
+"2019-11-15 00:00:00","116, Oxley Close","SE1 5HP",Flat,"Old stock",Leasehold,1,285000,51.4889991,-0.0727618,https://propertydata.co.uk/transaction/98C75472-6974-72E9-E053-6B04A8C042F0
+"2019-11-13 00:00:00","Flat 10, Harrison House, Brandon Street","SE17 1EE",Flat,"Old stock",Leasehold,1,244000,51.4896597,-0.0916681,https://propertydata.co.uk/transaction/9B361206-C11B-1904-E053-6B04A8C0EEB5
+"2019-11-08 00:00:00","17, Alscot Way","SE1 5XU","Terraced house","Old stock",Freehold,3,585000,51.4927803,-0.075767,https://propertydata.co.uk/transaction/9B361206-C10B-1904-E053-6B04A8C0EEB5
+"2019-11-01 00:00:00","Flat 41, Innis House, East Street","SE17 2JN",Flat,"Old stock",Leasehold,2,320000,51.4896476,-0.0835179,https://propertydata.co.uk/transaction/98C75472-647E-72E9-E053-6B04A8C042F0
+"2019-11-01 00:00:00","4a, Lynton Road","SE1 5QR",Flat,"Old stock",Leasehold,2,550000,51.4911287,-0.0747042,https://propertydata.co.uk/transaction/9B361206-C0E8-1904-E053-6B04A8C0EEB5
+"2019-11-01 00:00:00","118, Fort Road","SE1 5PT","Terraced house","Old stock",Freehold,2,810000,51.4912212,-0.0718676,https://propertydata.co.uk/transaction/98C75472-63F5-72E9-E053-6B04A8C042F0
+"2019-10-30 00:00:00","7, Bartholomew Street","SE1 4AJ","Terraced house","Old stock",Freehold,4,915000,51.4945781,-0.089256,https://propertydata.co.uk/transaction/98C75472-6420-72E9-E053-6B04A8C042F0
+"2019-10-25 00:00:00","Flat 8, York Mansions, Browning Street","SE17 1LP",Flat,"Old stock",Leasehold,2,360000,51.4896723,-0.0960168,https://propertydata.co.uk/transaction/98C75472-64C2-72E9-E053-6B04A8C042F0
+"2019-10-21 00:00:00","2, Freemantle Street","SE17 2JP","Terraced house","Old stock",Freehold,3,677000,51.4892697,-0.0829322,https://propertydata.co.uk/transaction/98C75472-4391-72E9-E053-6B04A8C042F0
+"2019-10-18 00:00:00","62, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,1,195000,51.4895529,-0.0745313,https://propertydata.co.uk/transaction/9B361206-C323-1904-E053-6B04A8C0EEB5
+"2019-10-11 00:00:00","Flat 4, Barham House, Kinglake Estate","SE17 2LQ",Flat,"Old stock",Leasehold,3,310000,51.488369,-0.0806176,https://propertydata.co.uk/transaction/965B6D91-F55D-95E4-E053-6C04A8C07729
+"2019-10-11 00:00:00","Flat 14, Tennyson House, Browning Street","SE17 1DB",Flat,"Old stock",Leasehold,2,355000,51.4896282,-0.0945412,https://propertydata.co.uk/transaction/965B6D91-F4F7-95E4-E053-6C04A8C07729
+"2019-10-10 00:00:00","Flat 53, Mawbey House, Old Kent Road","SE1 5PQ",Flat,"Old stock",Leasehold,2,285000,51.4865651,-0.0716195,https://propertydata.co.uk/transaction/98C75472-642C-72E9-E053-6B04A8C042F0
+"2019-10-08 00:00:00","40, Phelp Street","SE17 2PL","Terraced house","Old stock",Freehold,3,613750,51.4849976,-0.0905471,https://propertydata.co.uk/transaction/965B6D91-D25C-95E4-E053-6C04A8C07729
+"2019-10-01 00:00:00","101, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,2,970000,51.4931049,-0.0825139,https://propertydata.co.uk/transaction/965B6D91-D2E5-95E4-E053-6C04A8C07729
+"2019-09-30 00:00:00","Flat 22, Walsham House, Blackwood Street","SE17 2HG",Flat,"Old stock",Leasehold,2,375000,51.4883047,-0.0920764,https://propertydata.co.uk/transaction/98C75472-64A2-72E9-E053-6B04A8C042F0
+"2019-09-27 00:00:00","56, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,2,449990,51.4876965,-0.0887231,https://propertydata.co.uk/transaction/965B6D91-F528-95E4-E053-6C04A8C07729
+"2019-09-20 00:00:00","Flat 30, Jesson House, Orb Street","SE17 1ER",Flat,"Old stock",Leasehold,2,325000,51.4903591,-0.0895605,https://propertydata.co.uk/transaction/965B6D91-F540-95E4-E053-6C04A8C07729
+"2019-09-18 00:00:00","Flat 1, Boarley House, Massinger Street","SE17 1TE",Flat,"Old stock",Leasehold,2,315000,51.4913621,-0.0832133,https://propertydata.co.uk/transaction/93E6821E-DE0D-40FD-E053-6B04A8C0C1DF
+"2019-09-13 00:00:00","12, Wordsworth Road","SE1 5TX",Flat,"Old stock",Leasehold,2,385000,51.4906994,-0.0745984,https://propertydata.co.uk/transaction/965B6D91-F618-95E4-E053-6C04A8C07729
+"2019-09-13 00:00:00","11, Wordsworth Road","SE1 5TX",Flat,"Old stock",Leasehold,1,345000,51.490711,-0.0746412,https://propertydata.co.uk/transaction/93E6821E-E04C-40FD-E053-6B04A8C0C1DF
+"2019-08-30 00:00:00","Flat 15, Gower House, Morecambe Street","SE17 1DU",Flat,"Old stock",Leasehold,3,380000,51.4896226,-0.0930639,https://propertydata.co.uk/transaction/93E6821E-DEA0-40FD-E053-6B04A8C0C1DF
+"2019-08-23 00:00:00","3, Pepler Mews","SE5 0HX","Semi-detached house","Old stock",Freehold,4,735000,51.4851907,-0.0757742,https://propertydata.co.uk/transaction/93E6821E-DE3B-40FD-E053-6B04A8C0C1DF
+"2019-08-21 00:00:00","Flat 24, Astley House, Rowcross Street","SE1 5HU",Flat,"Old stock",Leasehold,2,290000,51.4885048,-0.0741971,https://propertydata.co.uk/transaction/93E6821E-E084-40FD-E053-6B04A8C0C1DF
+"2019-08-16 00:00:00","36, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,2,437500,51.4874683,-0.0879174,https://propertydata.co.uk/transaction/93E6821E-DFA2-40FD-E053-6B04A8C0C1DF
+"2019-08-13 00:00:00","5, Pepler Mews","SE5 0HX","Terraced house","Old stock",Freehold,4,730000,51.4851907,-0.0757742,https://propertydata.co.uk/transaction/93E6821E-DE2E-40FD-E053-6B04A8C0C1DF
+"2019-08-12 00:00:00","13, Keats Close","SE1 5TZ","Terraced house","Old stock",Freehold,2,670000,51.4908525,-0.0752097,https://propertydata.co.uk/transaction/919FEC05-D366-9A90-E053-6C04A8C0A300
+"2019-08-02 00:00:00","Flat 11, Trafalgar House, Bronti Close","SE17 2HF",Flat,"Old stock",Leasehold,2,290000,51.4879345,-0.0930384,https://propertydata.co.uk/transaction/919FEC05-CF4E-9A90-E053-6C04A8C0A300
+"2019-07-31 00:00:00","Flat 7, King George Iv Court, Dawes Street","SE17 2SF",Flat,"Old stock",Leasehold,1,283000,51.4897847,-0.0892376,https://propertydata.co.uk/transaction/919FEC05-CF38-9A90-E053-6C04A8C0A300
+"2019-07-30 00:00:00","32, Aylesbury Road","SE17 2EH",Flat,"Old stock",Leasehold,2,321000,51.4874641,-0.0879959,https://propertydata.co.uk/transaction/965B6D91-F594-95E4-E053-6C04A8C07729
+"2019-07-19 00:00:00","50, Alscot Way","SE1 5XX",Flat,"Old stock",Leasehold,1,265000,51.4923822,-0.0764805,https://propertydata.co.uk/transaction/93E6821E-E35B-40FD-E053-6B04A8C0C1DF
+"2019-07-18 00:00:00","Flat 23, Paxton House, Morecambe Street","SE17 1DS",Flat,"Old stock",Leasehold,2,315000,51.48941,-0.0928565,https://propertydata.co.uk/transaction/919FEC05-CF27-9A90-E053-6C04A8C0A300
+"2019-07-05 00:00:00","Flat 30, Studland, Portland Street","SE17 2TW",Flat,"Old stock",Leasehold,1,290000,51.4880802,-0.0904934,https://propertydata.co.uk/transaction/8F1B26BE-3EE4-53DB-E053-6C04A8C03649
+"2019-06-24 00:00:00","52, Alma Grove","SE1 5QB","Terraced house","Old stock",Freehold,3,870000,51.4905984,-0.0716557,https://propertydata.co.uk/transaction/8F1B26BE-1D4A-53DB-E053-6C04A8C03649
+"2019-06-20 00:00:00","Flat 14, Shelley House, Browning Street","SE17 1DF",Flat,"Old stock",Leasehold,2,295500,51.4893797,-0.093715,https://propertydata.co.uk/transaction/8F1B26BE-3E1E-53DB-E053-6C04A8C03649
+"2019-06-19 00:00:00","27a, Charleston Street","SE17 1NG",Flat,"Old stock",Leasehold,1,404000,51.4910846,-0.0942041,https://propertydata.co.uk/transaction/8F1B26BE-3ECD-53DB-E053-6C04A8C03649
+"2019-06-18 00:00:00","Flat 22, Brodie House, Coopers Road","SE1 5HX",Flat,"Old stock",Leasehold,3,240000,51.4880376,-0.0733939,https://propertydata.co.uk/transaction/8F1B26BE-3D8C-53DB-E053-6C04A8C03649
+"2019-06-14 00:00:00","2, Townley Street","SE17 1DZ","Semi-detached house","Old stock",Freehold,3,965000,51.4896602,-0.0925044,https://propertydata.co.uk/transaction/9FF0D96A-37A1-11ED-E053-6C04A8C06383
+"2019-06-07 00:00:00","Flat 49, Keston House, Kinglake Estate","SE17 2RB",Flat,"Old stock",Leasehold,2,310000,51.488294,-0.079192,https://propertydata.co.uk/transaction/8CAC1318-BE47-0253-E053-6B04A8C08E51
+"2019-06-05 00:00:00","Flat 16, Abbey Court, Macleod Street","SE17 3HA",Flat,"Old stock",Leasehold,1,355000,51.4917001,-0.099411,https://propertydata.co.uk/transaction/8CAC1318-C11C-0253-E053-6B04A8C08E51
+"2019-05-31 00:00:00","Flat 42, Mardyke House, Crosslet Street","SE17 1HH",Flat,"Old stock",Leasehold,1,220000,51.4922707,-0.0858191,https://propertydata.co.uk/transaction/8CAC1318-BE7B-0253-E053-6B04A8C08E51
+"2019-05-31 00:00:00","5, Cadet Drive","SE1 5RT","Terraced house","Old stock",Freehold,3,528000,51.4896429,-0.0711424,https://propertydata.co.uk/transaction/8F1B26BE-42B0-53DB-E053-6C04A8C03649
+"2019-05-31 00:00:00","42, Cadet Drive","SE1 5RU","Terraced house","Old stock",Freehold,4,585000,51.4891806,-0.0703087,https://propertydata.co.uk/transaction/8CAC1318-C03A-0253-E053-6B04A8C08E51
+"2019-05-17 00:00:00","77, Smyrks Road","SE17 2QP","Terraced house","Old stock",Freehold,3,500000,51.4874786,-0.0801728,https://propertydata.co.uk/transaction/965B6D91-F7F1-95E4-E053-6C04A8C07729
+"2019-05-14 00:00:00","Flat 12, Brodie House, Coopers Road","SE1 5HX",Flat,"Old stock",Leasehold,3,366000,51.4880376,-0.0733939,https://propertydata.co.uk/transaction/8A78B2B0-1324-5CB0-E053-6B04A8C0F504
+"2019-05-08 00:00:00","117, Rodney Road","SE17 1RF",Flat,"Old stock",Leasehold,1,255000,51.4913048,-0.089928,https://propertydata.co.uk/transaction/8A78B2B0-136F-5CB0-E053-6B04A8C0F504
+"2019-05-03 00:00:00","104, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,2,350000,51.4894469,-0.0738234,https://propertydata.co.uk/transaction/8A78B2B0-15A2-5CB0-E053-6B04A8C0F504
+"2019-04-26 00:00:00","Flat 15, Comus House, Congreve Street","SE17 1TG",Flat,"Old stock",Leasehold,1,234000,51.4918029,-0.0844203,https://propertydata.co.uk/transaction/8F1B26BE-3E63-53DB-E053-6C04A8C03649
+"2019-04-15 00:00:00","3, Searles Road","SE1 4YU","Terraced house","Old stock",Freehold,4,950000,51.4937367,-0.088695,https://propertydata.co.uk/transaction/87E1551E-841C-6405-E053-6C04A8C0B2EE
+"2019-04-05 00:00:00","59, Darwin Street","SE17 1EZ",Flat,"Old stock",Leasehold,3,540000,51.4925939,-0.0868351,https://propertydata.co.uk/transaction/87E1551E-84A8-6405-E053-6C04A8C0B2EE
+"2019-04-05 00:00:00","Flat 21, Cragie House, Balaclava Road","SE1 5PR",Flat,"Old stock",Leasehold,2,330000,51.490638,-0.0722499,https://propertydata.co.uk/transaction/87E1551E-9E4F-6405-E053-6C04A8C0B2EE
+"2019-04-04 00:00:00","10, Southwark Park Road","SE16 3RT",Flat,"Old stock",Leasehold,4,530000,51.4928023,-0.0735068,https://propertydata.co.uk/transaction/87E1551E-9E32-6405-E053-6C04A8C0B2EE
+"2019-03-29 00:00:00","46, Chatham Street","SE17 1NY","Terraced house","Old stock",Freehold,1,575000,51.4924653,-0.0890825,https://propertydata.co.uk/transaction/87E1551E-8568-6405-E053-6C04A8C0B2EE
+"2019-03-27 00:00:00","Flat 24, Southey House, Browning Street","SE17 1DE",Flat,"Old stock",Leasehold,4,423000,51.488908,-0.0944245,https://propertydata.co.uk/transaction/87E1551E-9FD1-6405-E053-6C04A8C0B2EE
+"2019-03-22 00:00:00","Flat 36, Povey House, Beckway Street","SE17 1TP",Flat,"Old stock",Leasehold,3,353000,51.490712,-0.0839141,https://propertydata.co.uk/transaction/87E1551E-9F65-6405-E053-6C04A8C0B2EE
+"2019-03-22 00:00:00","61, Darwin Street","SE17 1EZ",Flat,"Old stock",Leasehold,3,489000,51.4924308,-0.0868906,https://propertydata.co.uk/transaction/87E1551E-9DBA-6405-E053-6C04A8C0B2EE
+"2019-03-15 00:00:00","Flat 4, 10, Catesby Street","SE17 1AE",Flat,"Old stock",Leasehold,2,589500,51.4914482,-0.0870658,https://propertydata.co.uk/transaction/9B361206-C3C8-1904-E053-6B04A8C0EEB5
+"2019-03-08 00:00:00","Flat 94, Roffo Court, Boundary Lane","SE17 2FP",Flat,"Old stock",Leasehold,2,485000,51.4924224,-0.0838791,https://propertydata.co.uk/transaction/87E1551E-9F28-6405-E053-6C04A8C0B2EE
+"2019-03-08 00:00:00","Flat 17, Ightham House, Beckway Street","SE17 1TH",Flat,"Old stock",Leasehold,2,310000,51.4913133,-0.0849161,https://propertydata.co.uk/transaction/8A78B2B0-1365-5CB0-E053-6B04A8C0F504
+"2019-03-06 00:00:00","2, Watling Street","SE15 6QZ","Terraced house","Old stock",Freehold,4,495000,51.4811654,-0.0822412,https://propertydata.co.uk/transaction/85866A65-4927-143F-E053-6B04A8C06A15
+"2019-03-06 00:00:00","52, Trafalgar Avenue","SE15 6NR","Terraced house","Old stock",Freehold,3,1080000,51.4852334,-0.0743374,https://propertydata.co.uk/transaction/85866A65-4895-143F-E053-6B04A8C06A15
+"2019-03-01 00:00:00","Flat 5, Spectrum Place, Lytham Street","SE17 2GP",Flat,"Old stock",Leasehold,2,480000,51.4854051,-0.0918823,https://propertydata.co.uk/transaction/87E1551E-9E7A-6405-E053-6C04A8C0B2EE
+"2019-02-18 00:00:00","75, Lynton Road","SE1 5QT","Terraced house","Old stock",Freehold,3,780000,51.4902191,-0.0714314,https://propertydata.co.uk/transaction/85866A65-48B5-143F-E053-6B04A8C06A15
+"2019-02-05 00:00:00","Flat 1, Swanley House, Kinglake Estate","SE17 2LF",Flat,"Old stock",Leasehold,2,265000,51.4886836,-0.0790996,https://propertydata.co.uk/transaction/8355F009-7B51-55C5-E053-6B04A8C0D090
+"2019-02-01 00:00:00","81a, Lytham Street","SE17 2NN",Flat,"Old stock",Leasehold,2,595000,51.4860078,-0.0917955,https://propertydata.co.uk/transaction/919FEC05-D1BF-9A90-E053-6C04A8C0A300
+"2019-01-25 00:00:00","Flat 4, Groombridge House, Upnor Way","SE17 2RP",Flat,"Old stock",Leasehold,1,275000,51.4879974,-0.0792013,https://propertydata.co.uk/transaction/80E1AA98-B224-7BF8-E053-6C04A8C00BF2
+"2019-01-18 00:00:00","4, Bushwood Drive","SE1 5RE","Terraced house","Old stock",Freehold,4,612650,51.4899619,-0.0717927,https://propertydata.co.uk/transaction/8355F009-7E29-55C5-E053-6B04A8C0D090
+"2019-01-15 00:00:00","34, Sutherland Walk","SE17 3EF","Terraced house","Old stock",Freehold,3,675000,51.4863407,-0.0953258,https://propertydata.co.uk/transaction/80E1AA98-8E20-7BF8-E053-6C04A8C00BF2
+"2018-12-19 00:00:00","40, Date Street","SE17 2HQ","Terraced house","Old stock",Freehold,3,615000,51.487689,-0.0927405,https://propertydata.co.uk/transaction/7E86B6FB-3FF0-458C-E053-6B04A8C0C84C
+"2018-12-14 00:00:00","Flat 21, Naylor House, Flint Street","SE17 2SN",Flat,"Old stock",Leasehold,3,400000,51.4898275,-0.0868529,https://propertydata.co.uk/transaction/80E1AA98-B724-7BF8-E053-6C04A8C00BF2
+"2018-12-14 00:00:00","58, Marcia Road","SE1 5XF","Terraced house","Old stock",Freehold,4,710000,51.4894873,-0.0780967,https://propertydata.co.uk/transaction/7E86B6FB-5EEA-458C-E053-6B04A8C0C84C
+"2018-12-14 00:00:00","Flat 12, Spectrum Place, Lytham Street","SE17 2GP",Flat,"Old stock",Leasehold,1,470000,51.4853581,-0.0919885,https://propertydata.co.uk/transaction/7E86B6FB-5FAC-458C-E053-6B04A8C0C84C
+"2018-11-26 00:00:00","8, Burnham Close","SE1 5RL",Flat,"Old stock",Freehold,1,286000,51.4897385,-0.0732786,https://propertydata.co.uk/transaction/8A78B2B0-13AD-5CB0-E053-6B04A8C0F504
+"2018-11-23 00:00:00","23, Sutherland Square","SE17 3EQ","Semi-detached house","Old stock",Freehold,4,1230000,51.4853894,-0.0967612,https://propertydata.co.uk/transaction/7E86B6FA-6D4D-458C-E053-6B04A8C0C84C
+"2018-11-23 00:00:00","Flat 18, Bethersden House, Kinglake Estate","SE17 2LH",Flat,"Old stock",Leasehold,3,340000,51.4880219,-0.0811529,https://propertydata.co.uk/transaction/7E86B6FB-5F51-458C-E053-6B04A8C0C84C
+"2018-11-23 00:00:00","1b, Charleston Street","SE17 1NG",Flat,"Old stock",Leasehold,3,570000,51.4905237,-0.0951285,https://propertydata.co.uk/transaction/7E86B6FB-612E-458C-E053-6B04A8C0C84C
+"2018-11-21 00:00:00","Flat 1, Fairby House, Longfield Estate","SE1 5RX",Flat,"Old stock",Leasehold,4,385000,51.4926715,-0.074252,https://propertydata.co.uk/transaction/8355F009-7FEC-55C5-E053-6B04A8C0D090
+"2018-11-09 00:00:00","45b, Charleston Street","SE17 1NG",Flat,"Old stock",Leasehold,1,525000,51.4910877,-0.0943678,https://propertydata.co.uk/transaction/7C2D0700-B67C-4963-E053-6B04A8C07B97
+"2018-11-08 00:00:00","11, Aylesbury Road","SE17 2EQ",Flat,"Old stock",Leasehold,2,450000,51.4875796,-0.0883756,https://propertydata.co.uk/transaction/7C2D0700-B5C4-4963-E053-6B04A8C07B97
+"2018-10-31 00:00:00","31, Chaucer Drive","SE1 5TA","Terraced house","Old stock",Freehold,1,350000,51.4896804,-0.0743648,https://propertydata.co.uk/transaction/7C2D0700-B752-4963-E053-6B04A8C07B97
+"2018-10-26 00:00:00","49, Hazel Way","SE1 5XJ",Flat,"Old stock",Leasehold,1,330000,51.4936977,-0.0765052,https://propertydata.co.uk/transaction/7C2D0700-B57C-4963-E053-6B04A8C07B97
+"2018-10-22 00:00:00","86, Setchell Way","SE1 5XS",Flat,"Old stock",Leasehold,3,296400,51.4927317,-0.0771597,https://propertydata.co.uk/transaction/7C2D0700-B7CD-4963-E053-6B04A8C07B97
+"2018-10-19 00:00:00","Flat 44, Innis House, East Street","SE17 2JN",Flat,"Old stock",Leasehold,2,280000,51.4894894,-0.0839366,https://propertydata.co.uk/transaction/7C2D0700-B52A-4963-E053-6B04A8C07B97
+"2018-10-19 00:00:00","Flat 24, Swanley House, Kinglake Estate","SE17 2LF",Flat,"Old stock",Leasehold,3,310000,51.4886836,-0.0790996,https://propertydata.co.uk/transaction/79A74E22-3497-1289-E053-6B04A8C01627
+"2018-10-15 00:00:00","83, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,3,945000,51.4933678,-0.0820831,https://propertydata.co.uk/transaction/79A74E22-0ED9-1289-E053-6B04A8C01627
+"2018-10-11 00:00:00","25, Bushwood Drive","SE1 5RE",Flat,"Old stock",Leasehold,2,425000,51.4899047,-0.0727781,https://propertydata.co.uk/transaction/79A74E22-358E-1289-E053-6B04A8C01627
+"2018-10-10 00:00:00","47, Setchell Road","SE1 5ST","Terraced house","Old stock",Freehold,4,760000,51.4924645,-0.075422,https://propertydata.co.uk/transaction/79A74E22-0E04-1289-E053-6B04A8C01627
+"2018-10-05 00:00:00","73, Lynton Road","SE1 5QT","Terraced house","Old stock",Freehold,4,925000,51.4902894,-0.0713809,https://propertydata.co.uk/transaction/7C2D0700-9235-4963-E053-6B04A8C07B97
+"2018-10-05 00:00:00","28a, Surrey Square","SE17 2JX",Flat,"Old stock",Leasehold,2,465000,51.4893065,-0.0815814,https://propertydata.co.uk/transaction/79A74E22-34B9-1289-E053-6B04A8C01627
+"2018-10-05 00:00:00","103, Smyrks Road","SE17 2QP","Terraced house","Old stock",Freehold,3,540000,51.4870917,-0.0808947,https://propertydata.co.uk/transaction/79A74E22-351E-1289-E053-6B04A8C01627
+"2018-09-28 00:00:00","21, Henshaw Street","SE17 1PE","Terraced house","Old stock",Freehold,4,695000,51.4928334,-0.0906478,https://propertydata.co.uk/transaction/80E1AA98-B406-7BF8-E053-6C04A8C00BF2
+"2018-09-27 00:00:00","Flat 29, Faith Court, Coopers Road","SE1 5HD",Flat,"Old stock",Leasehold,1,112500,51.4878263,-0.0717615,https://propertydata.co.uk/transaction/7C2D0700-B603-4963-E053-6B04A8C07B97
+"2018-09-21 00:00:00","Flat 6, Spectrum Place, Lytham Street","SE17 2GP",Flat,"Old stock",Leasehold,2,500000,51.4893377,-0.0965367,https://propertydata.co.uk/transaction/79A74E22-3536-1289-E053-6B04A8C01627
+"2018-09-17 00:00:00","Flat 14, Dawes House, Orb Street","SE17 1RE",Flat,"Old stock",Leasehold,3,336000,51.4908228,-0.0967878,https://propertydata.co.uk/transaction/79A74E22-34C5-1289-E053-6B04A8C01627
+"2018-09-13 00:00:00","41, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,3,538000,51.4858773,-0.0898433,https://propertydata.co.uk/transaction/773788C3-1654-2CE4-E053-6C04A8C05E57
+"2018-09-07 00:00:00","Flat 12, Preston House, Preston Close","SE1 4NZ",Flat,"Old stock",Leasehold,1,255000,51.492578,-0.0840123,https://propertydata.co.uk/transaction/773788C3-399B-2CE4-E053-6C04A8C05E57
+"2018-08-31 00:00:00","Flat 50, Amery House, Kinglake Street","SE17 2RA",Flat,"Old stock",Leasehold,2,315000,51.4826603,-0.0924934,https://propertydata.co.uk/transaction/80E1AA98-B0B6-7BF8-E053-6C04A8C00BF2
+"2018-08-31 00:00:00","66, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,1,197500,51.4895368,-0.0745415,https://propertydata.co.uk/transaction/773788C3-3B1C-2CE4-E053-6C04A8C05E57
+"2018-08-31 00:00:00","Flat 21, Cowper House, Browning Street","SE17 1DD",Flat,"Old stock",Leasehold,1,285000,51.489357,-0.09477,https://propertydata.co.uk/transaction/79A74E22-341A-1289-E053-6B04A8C01627
+"2018-08-23 00:00:00","61a, Darwin Street","SE17 1EZ",Flat,"Old stock",Leasehold,3,482500,51.4923943,-0.0869094,https://propertydata.co.uk/transaction/75050A85-94CF-9A88-E053-6B04A8C02390
+"2018-08-23 00:00:00","7, Oxley Close","SE1 5HF","Terraced house","Old stock",Freehold,1,500000,51.4888638,-0.0700565,https://propertydata.co.uk/transaction/773788C3-3F15-2CE4-E053-6C04A8C05E57
+"2018-08-22 00:00:00","Old Rectory Lodge, Liverpool Grove","SE17 2HH","Detached house","Old stock",Freehold,5,2288000,51.4863093,-0.093164,https://propertydata.co.uk/transaction/773788C3-3A75-2CE4-E053-6C04A8C05E57
+"2018-08-20 00:00:00","Flat 13, Amery House, Kinglake Street","SE17 2RA",Flat,"Old stock",Leasehold,1,262000,51.4882091,-0.079885,https://propertydata.co.uk/transaction/773788C3-3A74-2CE4-E053-6C04A8C05E57
+"2018-08-17 00:00:00","142, Trafalgar Street","SE17 2TP","Terraced house","Old stock",Freehold,3,730000,51.4878147,-0.0898238,https://propertydata.co.uk/transaction/75050A85-B9EB-9A88-E053-6B04A8C02390
+"2018-08-08 00:00:00","Flat 12, Ash House, Longfield Estate","SE1 5TN",Flat,"Old stock",Leasehold,3,420000,51.4926715,-0.074252,https://propertydata.co.uk/transaction/773788C3-3A55-2CE4-E053-6C04A8C05E57
+"2018-08-03 00:00:00","Flat 25, Dawes House, Orb Street","SE17 1RE",Flat,"Old stock",Leasehold,2,326500,51.4908228,-0.0967878,https://propertydata.co.uk/transaction/75050A85-BA73-9A88-E053-6B04A8C02390
+"2018-07-30 00:00:00","31, Longfellow Way","SE1 5TB",Flat,"Old stock",Leasehold,1,275000,51.489982,-0.0734832,https://propertydata.co.uk/transaction/75050A85-BB3A-9A88-E053-6B04A8C02390
+"2018-07-25 00:00:00","Flat 8, King George Iv Court, Dawes Street","SE17 2SF",Flat,"Old stock",Leasehold,2,350000,51.489746,-0.089261,https://propertydata.co.uk/transaction/75050A85-BA5B-9A88-E053-6B04A8C02390
+"2018-07-03 00:00:00","96a, Dawes Street","SE17 2EB",Flat,"Old stock",Leasehold,3,450000,51.4886463,-0.0882824,https://propertydata.co.uk/transaction/726BF13B-580A-0A46-E053-6C04A8C01D0D
+"2018-06-22 00:00:00","47, Marcia Road","SE1 5XF","Terraced house","Old stock",Freehold,5,735000,51.4901718,-0.0788631,https://propertydata.co.uk/transaction/726BF13B-56E7-0A46-E053-6C04A8C01D0D
+"2018-06-15 00:00:00","Flat 1, Littlebourne House, Upnor Way","SE17 2RW",Flat,"Old stock",Leasehold,1,265000,51.4880379,-0.0791401,https://propertydata.co.uk/transaction/75050A85-B9FD-9A88-E053-6B04A8C02390
+"2018-06-07 00:00:00","89, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,2,820000,51.4932898,-0.0822392,https://propertydata.co.uk/transaction/7011B109-C87B-8ED6-E053-6B04A8C075C1
+"2018-06-01 00:00:00","32, Southwark Park Road","SE16 3RT",Flat,"Old stock",Leasehold,4,477500,51.4925035,-0.0727541,https://propertydata.co.uk/transaction/7011B109-E6E8-8ED6-E053-6B04A8C075C1
+"2018-05-31 00:00:00","Flat 11, Marnock House, Brandon Street","SE17 1EF",Flat,"Old stock",Leasehold,1,280000,51.4897831,-0.0913016,https://propertydata.co.uk/transaction/7011B109-E5A2-8ED6-E053-6B04A8C075C1
+"2018-05-24 00:00:00","Flat 13, Willsbridge Court, Bibury Close","SE15 6QE",Flat,"Old stock",Leasehold,3,425000,51.4815123,-0.0786781,https://propertydata.co.uk/transaction/726BF13B-5718-0A46-E053-6C04A8C01D0D
+"2018-05-22 00:00:00","212a, Walworth Road","SE17 1JE",Flat,"Old stock",Leasehold,2,405000,51.4891344,-0.0964347,https://propertydata.co.uk/transaction/75050A85-BA21-9A88-E053-6B04A8C02390
+"2018-05-21 00:00:00","45, Wooler Street","SE17 2ED","Terraced house","Old stock",Freehold,2,575000,51.4880319,-0.0884708,https://propertydata.co.uk/transaction/7011B109-C72A-8ED6-E053-6B04A8C075C1
+"2018-05-16 00:00:00","24, Longfellow Way","SE1 5TB",Flat,"Old stock",Leasehold,2,421000,51.4899889,-0.0737315,https://propertydata.co.uk/transaction/7011B109-E5C1-8ED6-E053-6B04A8C075C1
+"2018-05-15 00:00:00","Flat 10, Paxton House, Morecambe Street","SE17 1DS",Flat,"Old stock",Leasehold,1,325000,51.4893919,-0.0928827,https://propertydata.co.uk/transaction/7011B109-E684-8ED6-E053-6B04A8C075C1
+"2018-05-11 00:00:00","22, Keats Close","SE1 5TZ",Flat,"Old stock",Leasehold,1,305000,51.4905182,-0.0751709,https://propertydata.co.uk/transaction/6DA0844A-7088-30F2-E053-6B04A8C05F3B
+"2018-05-11 00:00:00","90, Oxley Close","SE1 5HP",Flat,"Old stock",Leasehold,2,320000,51.4889991,-0.0727618,https://propertydata.co.uk/transaction/726BF13B-5D79-0A46-E053-6C04A8C01D0D
+"2018-04-26 00:00:00","Flat 90, Roffo Court, Boundary Lane","SE17 2FP",Flat,"Old stock",Leasehold,1,390000,51.483376,-0.092947,https://propertydata.co.uk/transaction/6DA0844A-6CA7-30F2-E053-6B04A8C05F3B
+"2018-04-26 00:00:00","1a, Parkhouse Street","SE5 7TQ",Flat,"Old stock",Leasehold,3,515750,51.48071,-0.087744,https://propertydata.co.uk/transaction/7011B109-E70A-8ED6-E053-6B04A8C075C1
+"2018-04-13 00:00:00","Flat 27, Gray House, King & Queen Street","SE17 1DT",Flat,"Old stock",Leasehold,2,330000,51.48948,-0.093398,https://propertydata.co.uk/transaction/6B32222C-B2C5-01F1-E053-6C04A8C0D2C8
+"2018-04-09 00:00:00","Flat 2, Pincombe House, Orb Street","SE17 1AH",Flat,"Old stock",Leasehold,1,260000,51.489652,-0.089573,https://propertydata.co.uk/transaction/6B32222C-B35E-01F1-E053-6C04A8C0D2C8
+"2018-04-06 00:00:00","81, Rodney Road","SE17 1RF",Flat,"Old stock",Leasehold,1,305000,51.491614,-0.089693,https://propertydata.co.uk/transaction/6B32222C-B2EF-01F1-E053-6C04A8C0D2C8
+"2018-03-29 00:00:00","166b, Portland Street","SE17 2NS",Flat,"Old stock",Leasehold,3,522500,51.48724,-0.090034,https://propertydata.co.uk/transaction/7011B109-E8DF-8ED6-E053-6B04A8C075C1
+"2018-03-29 00:00:00","Flat 65, Mawbey House, Old Kent Road","SE1 5PQ",Flat,"Old stock",Leasehold,2,306600,51.48645,-0.0714,https://propertydata.co.uk/transaction/6B32222C-B394-01F1-E053-6C04A8C0D2C8
+"2018-03-29 00:00:00","Flat 4, Povey House, Beckway Street","SE17 1TP",Flat,"Old stock",Leasehold,3,420000,51.490744,-0.08486,https://propertydata.co.uk/transaction/7011B109-E5F8-8ED6-E053-6B04A8C075C1
+"2018-03-28 00:00:00","4, Searles Road","SE1 4YU","Terraced house","Old stock",Freehold,4,945000,51.493754,-0.087471,https://propertydata.co.uk/transaction/6B32222C-977F-01F1-E053-6C04A8C0D2C8
+"2018-03-22 00:00:00","Flat 18, Mawbey House, Old Kent Road","SE1 5PG",Flat,"Old stock",Leasehold,2,330000,51.48645,-0.0714,https://propertydata.co.uk/transaction/6B32222C-B34E-01F1-E053-6C04A8C0D2C8
+"2018-03-14 00:00:00","122, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,1,300000,51.489307,-0.074016,https://propertydata.co.uk/transaction/965B6D91-F69D-95E4-E053-6C04A8C07729
+"2018-03-07 00:00:00","Flat 4, Gloucester Court, Rowcross Street","SE1 5HQ",Flat,"Old stock",Leasehold,2,420000,51.488787,-0.07352,https://propertydata.co.uk/transaction/68FEB20C-0455-38DA-E053-6C04A8C051AE
+"2018-03-05 00:00:00","Flat 36, Eugene Cotter House, Beckway Street","SE17 1QS",Flat,"Old stock",Leasehold,1,260000,51.49129,-0.086336,https://propertydata.co.uk/transaction/68FEB20C-034A-38DA-E053-6C04A8C051AE
+"2018-02-22 00:00:00","60, Chaucer Drive","SE1 5RG",Flat,"Old stock",Leasehold,5,210000,51.489307,-0.074016,https://propertydata.co.uk/transaction/666758D7-58E9-3363-E053-6B04A8C0D74E
+"2018-02-16 00:00:00","Flat 18, Tennyson House, Browning Street","SE17 1DB",Flat,"Old stock",Leasehold,3,370000,51.489704,-0.094411,https://propertydata.co.uk/transaction/68FEB20C-03A6-38DA-E053-6C04A8C051AE
+"2018-02-15 00:00:00","Flat 7, Culand House, Congreve Street","SE17 1ST",Flat,"Old stock",Leasehold,2,355000,51.490425,-0.082425,https://propertydata.co.uk/transaction/68FEB20C-0340-38DA-E053-6C04A8C051AE
+"2018-02-01 00:00:00","44, Chaucer Drive","SE1 5TA",Flat,"Old stock",Leasehold,2,250000,51.489844,-0.074368,https://propertydata.co.uk/transaction/666758D7-5D0E-3363-E053-6B04A8C0D74E
+"2018-02-01 00:00:00","Flat D, 30, Sutherland Square","SE17 3EQ",Flat,"Old stock",Leasehold,2,520000,51.485499,-0.096329,https://propertydata.co.uk/transaction/6DA0844A-6DDB-30F2-E053-6B04A8C05F3B
+"2018-01-26 00:00:00","6, Gateway","SE17 3HQ",Flat,"Old stock",Leasehold,3,335000,51.484689,-0.094058,https://propertydata.co.uk/transaction/68FEB20C-0511-38DA-E053-6C04A8C051AE
+"2018-01-18 00:00:00","Flat 21, Avington Court, Old Kent Road","SE1 5NF",Flat,"Old stock",Leasehold,2,335000,51.491033,-0.081074,https://propertydata.co.uk/transaction/666758D7-58F5-3363-E053-6B04A8C0D74E
+"2018-01-15 00:00:00","Flat A, 30, Sutherland Square","SE17 3EQ",Flat,"Old stock",Leasehold,2,665000,51.485499,-0.096329,https://propertydata.co.uk/transaction/666758D7-5798-3363-E053-6B04A8C0D74E
+"2017-12-19 00:00:00","26, Lytham Street","SE17 2PN","Terraced house","Old stock",Freehold,2,550000,51.485738,-0.090572,https://propertydata.co.uk/transaction/64342BFE-F0D1-422C-E053-6C04A8C0FB8A
+"2017-12-12 00:00:00","11, Tisdall Place","SE17 1QQ","Terraced house","Old stock",Freehold,3,675000,51.489948,-0.086248,https://propertydata.co.uk/transaction/61D8894E-6239-3DE6-E053-6C04A8C01207
+"2017-12-08 00:00:00","1, Tisdall Place","SE17 1QQ","Terraced house","Old stock",Freehold,3,600000,51.489948,-0.086248,https://propertydata.co.uk/transaction/666758D7-5A9D-3363-E053-6B04A8C0D74E
+"2017-12-07 00:00:00","27, Phelp Street","SE17 2PL","Terraced house","Old stock",Freehold,2,500000,51.484983,-0.090546,https://propertydata.co.uk/transaction/64342BFE-BF87-422C-E053-6C04A8C0FB8A
+"2017-11-29 00:00:00","50, Searles Road","SE1 4YL","Terraced house","Old stock",Freehold,2,690000,51.493489,-0.087742,https://propertydata.co.uk/transaction/61D8894E-5DA7-3DE6-E053-6C04A8C01207
+"2017-11-23 00:00:00","67, Wooler Street","SE17 2ED","Terraced house","Old stock",Freehold,2,567500,51.487879,-0.088927,https://propertydata.co.uk/transaction/61D8894E-41C3-3DE6-E053-6C04A8C01207
+"2017-11-21 00:00:00","37, Aylesbury Road","SE17 2EQ","Terraced house","Old stock",Leasehold,1,445000,51.48771,-0.08794,https://propertydata.co.uk/transaction/61D8894E-5EAE-3DE6-E053-6C04A8C01207
+"2017-11-10 00:00:00","36, Henshaw Street","SE17 1PD","Terraced house","Old stock",Freehold,3,742440,51.492839,-0.089815,https://propertydata.co.uk/transaction/5F54B81D-CC3D-2B45-E053-6B04A8C01FB0
+"2017-11-10 00:00:00","Ground Floor Flat, 37, Wooler Street","SE17 2ED",Flat,"Old stock",Leasehold,2,427500,51.487879,-0.088927,https://propertydata.co.uk/transaction/666758D7-59FB-3363-E053-6B04A8C0D74E
+"2017-11-08 00:00:00","21, Keats Close","SE1 5TZ",Flat,"Old stock",Leasehold,1,324000,51.490726,-0.075541,https://propertydata.co.uk/transaction/5F54B81D-CC5D-2B45-E053-6B04A8C01FB0
+"2017-10-30 00:00:00","36, Fielding Street","SE17 3HD","Terraced house","Old stock",Freehold,2,788500,51.485423,-0.094964,https://propertydata.co.uk/transaction/5F54B81D-9FCF-2B45-E053-6B04A8C01FB0
+"2017-10-16 00:00:00","86, Wooler Street","SE17 2EF",Flat,"Old stock",Leasehold,2,435000,51.487823,-0.088238,https://propertydata.co.uk/transaction/5CF9903C-8993-7F13-E053-6C04A8C074B1
+"2017-10-16 00:00:00","314b, East Street","SE17 2SX",Flat,"Old stock",Leasehold,3,595000,51.490129,-0.082452,https://propertydata.co.uk/transaction/5F54B81D-C7E9-2B45-E053-6B04A8C01FB0
+"2017-10-13 00:00:00","37a, Wooler Street","SE17 2ED",Flat,"Old stock",Leasehold,3,475000,51.487879,-0.088927,https://propertydata.co.uk/transaction/666758D7-59A9-3363-E053-6B04A8C0D74E
+"2017-09-29 00:00:00","145, Pilton Place","SE17 1DJ",Flat,"Old stock",Leasehold,2,340000,51.488885,-0.093293,https://propertydata.co.uk/transaction/61D8894E-5E60-3DE6-E053-6C04A8C01207
+"2017-09-29 00:00:00","101, Pages Walk","SE1 4HD","Terraced house","Old stock",Freehold,2,850000,51.493456,-0.081894,https://propertydata.co.uk/transaction/5CF9903C-66BC-7F13-E053-6C04A8C074B1
+"2017-09-29 00:00:00","69, Wansey Street","SE17 1FF","Terraced house",New-build,Leasehold,3,1450000,51.492111,-0.094717,https://propertydata.co.uk/transaction/5F54B81D-CBA8-2B45-E053-6B04A8C01FB0
+"2017-09-27 00:00:00","168c, Portland Street","SE17 2NS",Flat,"Old stock",Leasehold,1,335000,51.48724,-0.090034,https://propertydata.co.uk/transaction/64342BFE-ED2E-422C-E053-6C04A8C0FB8A
+"2017-09-26 00:00:00","67, Wansey Street","SE17 1FF","Terraced house",New-build,Leasehold,3,1450000,51.492111,-0.094717,https://propertydata.co.uk/transaction/5F54B81D-CB95-2B45-E053-6B04A8C01FB0
+"2017-08-30 00:00:00","129, Pilton Place","SE17 1DJ",Flat,"Old stock",Leasehold,2,285000,51.488885,-0.093293,https://propertydata.co.uk/transaction/5CF9903C-8AE9-7F13-E053-6C04A8C074B1
+"2017-08-25 00:00:00","4a, Oakley Place","SE1 5AD",Flat,"Old stock",Leasehold,2,555000,51.48662,-0.075728,https://propertydata.co.uk/transaction/5A9D8B55-C25B-68EB-E053-6B04A8C0D293
+"2017-08-25 00:00:00","4, Salisbury Close","SE17 1BY",Flat,"Old stock",Leasehold,3,400000,51.492067,-0.089343,https://propertydata.co.uk/transaction/5A9D8B55-C2F9-68EB-E053-6B04A8C0D293
+"2017-08-24 00:00:00","166c, Portland Street","SE17 2NS",Flat,"Old stock",Leasehold,3,525000,51.48724,-0.090034,https://propertydata.co.uk/transaction/61D8894E-5FF9-3DE6-E053-6C04A8C01207
+"2017-08-23 00:00:00","33, Alscot Way","SE1 5XU","Terraced house","Old stock",Freehold,3,640000,51.492777,-0.07557,https://propertydata.co.uk/transaction/5A9D8B55-C00F-68EB-E053-6B04A8C0D293
+"2017-08-17 00:00:00","83, Balfour Street","SE17 1PL",Flat,"Old stock",Leasehold,3,685000,51.493225,-0.091398,https://propertydata.co.uk/transaction/5A9D8B55-C220-68EB-E053-6B04A8C0D293
+"2017-08-11 00:00:00","71, Wansey Street","SE17 1FF","Terraced house",New-build,Leasehold,3,1386500,51.492111,-0.094717,https://propertydata.co.uk/transaction/5F54B81D-CA30-2B45-E053-6B04A8C01FB0
+"2017-08-07 00:00:00","63, Wansey Street","SE17 1FF","Terraced house",New-build,Leasehold,3,1403750,51.492111,-0.094717,https://propertydata.co.uk/transaction/5F54B81D-CA3B-2B45-E053-6B04A8C01FB0
+"2017-08-04 00:00:00","65, Wansey Street","SE17 1FF","Terraced house",New-build,Leasehold,3,1450000,51.492111,-0.094717,https://propertydata.co.uk/transaction/5F54B81D-CA3D-2B45-E053-6B04A8C01FB0
+"2017-07-28 00:00:00","10a, Oakley Place","SE1 5AD",Flat,"Old stock",Leasehold,2,490000,51.48662,-0.075728,https://propertydata.co.uk/transaction/5A9D8B55-C03B-68EB-E053-6B04A8C0D293
+"2017-07-28 00:00:00","168, Trafalgar Street","SE17 2TP","Terraced house","Old stock",Freehold,3,725000,51.487911,-0.089272,https://propertydata.co.uk/transaction/582D0637-9752-8F22-E053-6C04A8C01BAC
+"2017-07-12 00:00:00","83a, Balfour Street","SE17 1PL",Flat,"Old stock",Leasehold,1,465000,51.493225,-0.091398,https://propertydata.co.uk/transaction/582D0637-9692-8F22-E053-6C04A8C01BAC
